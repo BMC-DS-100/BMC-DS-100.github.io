@@ -11,7 +11,9 @@ active_tab: lectures
 
 
 <div class="alert alert-info">
-You can <a href="https://columbia.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ad664074-1c72-4e25-9779-ac300135ae05%22">watch recordings of the lecture videos online</a>.
+You can <a href="https://columbia.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=63d49ee1-7942-4790-ae3f-ae03003adc51">watch recordings of the Spring 2022 lecture videos online</a>.
+<br><br>
+You can <a href="https://columbia.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ad664074-1c72-4e25-9779-ac300135ae05%22">watch recordings of the Fall 2020 lecture videos online</a>.
 Recordings are saved on Panopto and require a UNI login.
 </div>
 
