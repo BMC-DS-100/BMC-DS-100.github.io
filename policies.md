@@ -41,7 +41,7 @@ Each student must submit each homework independently, but you are encouraged to 
 Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. On each project, you may work with a single partner. Both partners will receive the same score.
 
 #### Late days
-To account for issues that arise in these uncertain times, each student has **15 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
+To account for issues that arise in these uncertain times, each student has **10 late** days for the homeworks and projects. However, you can only use at most **2 late** days per assignment. 
 
 ### Labs
 There are weekly labs.
