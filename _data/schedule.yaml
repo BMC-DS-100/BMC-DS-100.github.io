@@ -2,9 +2,8 @@
   lectures: 
     - 
       date: 2022-01-18
-      slides: ~
       title: Lecture 1 <br> Course Introduction <br> Correlation & Causation
-      slides: ~
+      slides: slides/lecture1-intro.pdf
       notebook:  ~
       completed_notebook: ~
       readings:
