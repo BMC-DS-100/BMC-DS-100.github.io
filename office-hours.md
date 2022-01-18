@@ -81,30 +81,45 @@ as the course meetings and labs
 <tbody>
 <tr align="center">
 <td>Adam Poliak</td>
-<td align="center">Monday<br>Tuesday<br>Thursday</td>
-<td>9pm-10pm <br> 9pm-10pm <br> <strike>9pm-10pm</strike> 5pm-6pm</td>
+<td align="center">Tuesday</td>
+<td>1pm-2pm</td>
 </tr>
 <tr align="center">
-<td align="center">Priyadharshini Rajbabu</td>
-<td align="center"> Wednesday <br> Friday </td>
-<td>12pm - 1pm <br> 11am - 12pm</td>
+<td align="center">Dingwen Xie</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
 </tr>
 <tr align="center">
-<td align="center">Francesca Loiodice</td>
-<td align="center"> Wednesday <br> Thursday </td>
-<td>7 - 7:30pm <br> 10 - 10:30pm</td>
+<td align="center">Saloni Gupta Ajay Kumar</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
 </tr>
 <tr align="center">
-<td align="center">Lucie le Blanc</td>
-<td align="center">Monday <br> Wednesday </td>
-<td>11am - 11:30am <br> 11am - 11:30am</td>
+<td align="center">Yosha Singh Tomar</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
+</tr>
+<tr align="center">
+<td align="center">Pranathi Srirangam</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
+</tr>
+<tr align="center">
+<td align="center">Esha Julka</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
+</tr>
+<tr align="center">
+<td align="center">Xueqing Ma</td>
+<td align="center"> TBD </td>
+<td>TBD </td>
 </tr>
 </tbody>
 </table>
 
 ## Barnard CS Help Room
 
-<h4>See Slack for link</h4>
+<h4>See EdStem for link</h4>
 
 <table>
 <thead>
@@ -116,15 +131,15 @@ as the course meetings and labs
 <tbody>
 <tr align="center">
 <td>Tuesday</td>
-<td align="center">10am - 12pm <br> 6pm - 8pm</td>
+<td align="center">??</td>
 </tr>
 <tr align="center">
 <td>Thursday</td>
-<td align="center">10am - 12pm <br> 3pm - 5pm <br> 7pm - 9pm</td>
+<td align="center">??</td>
 </tr>
 <tr align="center">
 <td>Friday</td>
-<td align="center">1pm - 3pm</td>
+<td align="center">??</td>
 </tr>
 </tbody>
 </table>
