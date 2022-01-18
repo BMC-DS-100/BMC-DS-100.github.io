@@ -55,7 +55,7 @@ Website
 : [https://coms1016.barnard.edu/](https://coms1016.barnard.edu/)
 
 Discussion Forum
-: [Piazza]() 
+: [EdStem](https://edstem.org/us/courses/18868)
 
 Time and place
 : Spring 2022, TR 11:40am-12:55pm, Location: Dianna 504
