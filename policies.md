@@ -46,8 +46,9 @@ To account for issues that arise in these uncertain times, each student has **15
 ### Labs
 There are weekly labs.
 We encourage you to submit the lab after attending your lab section but the lab will be due the following Monday night.
+Late days **can not** be used for labs.
 
-Late days can now be used for the labs.
+<!--Late days can now be used for the labs.-->
 
 #### Dropped Homeworks and Labs
 To account for issues that arise in these uncertain times, we 
