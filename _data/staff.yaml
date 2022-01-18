@@ -32,7 +32,7 @@
     location: TBD
 -
     name: Pranathi Srirangam
-    pic: psrirangam.jpg
+    pic: psrirangam.jpeg
     email: ps3204@barnard.edu
     office_hours: TBD
     lab_hours: Wednesday 12-2
@@ -43,6 +43,13 @@
     email: ej2422@barnard.edu
     office_hours: TBD
     lab_hours: Friday 9-11am
+    extra_title: Computing Fellow
+-
+    name: Xueqing Ma
+    pic: xma.jpg
+    email: xm2264@barnard.edu
+    office_hours: TBD
+    lab_hours: Thursday 4-6pm
     extra_title: Computing Fellow
 -
    name: Preceptor
