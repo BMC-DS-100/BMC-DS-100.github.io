@@ -59,7 +59,7 @@ Discussion Forum
 
 Time and place
 : Spring 2022, TR 11:40am-12:55pm, Location: Dianna 504
-: Lab 01 W: 2:00-4:00pm
+: Lab 01 W: 12:00-2:00pm
 : Lab 02 R: 4:00-6:00pm
 : Lab 03 F: 9:00-11:00am
 
