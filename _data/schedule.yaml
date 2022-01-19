@@ -19,6 +19,11 @@
           authors: "Jeannette M. Wing"
           title: "Computational Thinking"
           url: /readings/Wing06-Comp-thinking.pdf
+      assignments: 
+        - 
+          deadline: 2022-01-24
+          title: "Lab 0 - Python Intro"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab00%2Flab00.ipynb&branch=master"
     - 
       date: 2022-01-20
       title: Lecture 2 <br> Data Types, Expressions
