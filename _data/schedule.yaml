@@ -27,9 +27,14 @@
     - 
       date: 2022-01-20
       title: Lecture 2 <br> Data Types, Expressions
-      slides: ~
-      notebook:  ~
+      slides: slides/lecture2-data-types-expressions.pdf
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_2.ipynb&branch=master
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-01-27
+          title: "HW 0 - Causality and Expressions"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=master"
       readings:
         -
           url: https://www.inferentialthinking.com/chapters/03/programming-in-python.html
