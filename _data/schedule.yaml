@@ -29,7 +29,7 @@
       title: Lecture 2 <br> Data Types, Expressions
       slides: slides/lecture2-data-types-expressions.pdf
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_2.ipynb&branch=master
-      completed_notebook: ~
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_2_completed.ipynb&branch=master
       assignments: 
         - 
           deadline: 2022-01-27
