@@ -46,7 +46,7 @@
       date: 2022-01-25
       title: Lecture 3 <br> Tables, Arrays, & Sequences
       slides: "slides/lecture3-tables_arrays_sequences.pdf"
-      notebook:  ~
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_3.ipynb&branch=master
       completed_notebook: ~
       readings:
         -
