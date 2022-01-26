@@ -86,33 +86,33 @@ as the course meetings and labs
 </tr>
 <tr align="center">
 <td align="center">Dingwen Xie</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Wednesday </td>
+<td>10-11:30am </td>
 </tr>
 <tr align="center">
 <td align="center">Saloni Gupta Ajay Kumar</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Tuesday </td>
+<td>4-5:30pm </td>
 </tr>
 <tr align="center">
 <td align="center">Yosha Singh Tomar</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Friday </td>
+<td>4-5:30pm </td>
 </tr>
 <tr align="center">
 <td align="center">Pranathi Srirangam</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Monday </td>
+<td>8:30-9:30pm </td>
 </tr>
 <tr align="center">
 <td align="center">Esha Julka</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Wednesday </td>
+<td>4:30-5:30pm </td>
 </tr>
 <tr align="center">
 <td align="center">Xueqing Ma</td>
-<td align="center"> TBD </td>
-<td>TBD </td>
+<td align="center"> Monday </td>
+<td>4-5pm </td>
 </tr>
 </tbody>
 </table>
@@ -130,16 +130,20 @@ as the course meetings and labs
 </thead>
 <tbody>
 <tr align="center">
+<td>Monday</td>
+<td align="center">1-3pm</td>
+</tr>
+<tr align="center">
 <td>Tuesday</td>
-<td align="center">??</td>
+<td align="center">12-2pm, 5-7pm</td>
+</tr>
+<tr align="center">
+<td>Wednesday</td>
+<td align="center">2-5pm</td>
 </tr>
 <tr align="center">
 <td>Thursday</td>
-<td align="center">??</td>
-</tr>
-<tr align="center">
-<td>Friday</td>
-<td align="center">??</td>
+<td align="center">10am-12pm, 4-6pm</td>
 </tr>
 </tbody>
 </table>
