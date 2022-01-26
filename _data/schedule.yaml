@@ -52,7 +52,7 @@
         - 
           deadline: 2022-01-31
           title: "Lab 1 - Table operations"
-          url: ~
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab01%2Flab01.ipynb&branch=master"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html"
