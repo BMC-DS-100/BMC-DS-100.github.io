@@ -89,7 +89,6 @@
           url: "https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html"
           title: "Chapter 7.1 Categorical Distributions"
       slides: "slides/lecture5-visualization.pdf"
-      notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-02-03
