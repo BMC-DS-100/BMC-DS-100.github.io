@@ -89,7 +89,7 @@
           url: "https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html"
           title: "Chapter 7.1 Categorical Distributions"
       slides: "slides/lecture5-visualization.pdf"
-      completed_notebook: ~
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_5_completed.ipynb&branch=master
     - 
       date: 2022-02-03
       title: Lecture 6 <br> Histograms
