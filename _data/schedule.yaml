@@ -62,7 +62,6 @@
           title: "Chapter 5: Sequences"
     - 
       date: 2022-01-27
-      slides: ~
       title: Lecture 4 <br> More Tables
       slides: "slides/lecture4-arrays_sequences.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_4.ipynb&branch=master
@@ -81,12 +80,27 @@
     - 
       date: 2022-02-01
       title: Lecture 5 <br> Visualization
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/07/Visualization.html"
+          title: "Chapter 7 (intro): Visualization"
+        -
+          url: "https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html"
+          title: "Chapter 7.1 Categorical Distributions"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-02-03
       title: Lecture 6 <br> Histograms
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html"
+          title: "Chapter 7.2 Numerical Distributions"
+        -
+          url: "https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html"
+          title: "Chapter 7.3 Overlaid Graphs"
+      slides: ~
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -94,11 +108,19 @@
       date: 2022-02-08
       slides: ~
       title: Lecture 7 <br> Functions & Apply, Group, Pivot
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
+          title: "Chapter 8. Functions and Tables"
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-02-10
       title: Lecture 8 <br> Pivot, Joins, & Comparisons
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
+          title: "Chapter 8. Functions and Tables"
       slides: ~
       notebook:  ~
       completed_notebook: ~
