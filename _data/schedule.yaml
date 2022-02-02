@@ -95,6 +95,10 @@
           deadline: 2022-02-07
           title: "HW 1 - Arrays and Tables"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
+        - 
+          deadline: 2022-02-07
+          title: "Lab 2 - Data Types and Arrays"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
     - 
       date: 2022-02-03
       title: Lecture 6 <br> Histograms
