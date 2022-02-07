@@ -115,16 +115,22 @@
     - 
       date: 2022-02-08
       slides: ~
-      title: Lecture 7 <br> Functions & Apply, Group, Pivot
+      title: <strike>Lecture 7 <br> Functions & Apply, Group, Pivot</strike> <br> No Lecture
+      assignments: 
+        - 
+          deadline: 2022-02-07
+          title: "HW 2 - Table Manipulation and Visualization"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master"
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
           title: "Chapter 8. Functions and Tables"
       notebook:  ~
       completed_notebook: ~
+      type: "'no_lecture'"
     - 
       date: 2022-02-10
-      title: Lecture 8 <br> Pivot, Joins, & Comparisons
+      title: Lecture 7 <br> Pivot, Joins, & Comparisons
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
@@ -134,7 +140,7 @@
       completed_notebook: ~
     - 
       date: 2022-02-15
-      title: Lecture 9 <br> Control Statements (If, For) & Randomness
+      title: Lecture 8 <br> Control Statements (If, For) & Randomness
       slides: ~
       notebook:  ~
       completed_notebook: ~
