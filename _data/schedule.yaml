@@ -118,9 +118,12 @@
       title: <strike>Lecture 7 <br> Functions & Apply, Group, Pivot</strike> <br> No Lecture
       assignments: 
         - 
-          deadline: 2022-02-07
+          deadline: 2022-02-14
           title: "HW 2 - Table Manipulation and Visualization"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master"
+          deadline: 2022-02-14
+          title: "Lab 3 - Functions and Visualizations"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab03%2Flab03.ipynb&branch=master"
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
