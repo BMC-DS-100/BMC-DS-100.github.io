@@ -141,7 +141,7 @@
           title: "Chapter 8. Functions and Tables"
       slides: slides/lecture7-functions.pdf
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_7.ipynb&branch=master
-      completed_notebook: ~
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_7_completed.ipynb&branch=master
     - 
       date: 2022-02-15
       title: Lecture 8 <br> Control Statements (If, For) & Randomness
@@ -150,8 +150,8 @@
           deadline: 2022-02-21
           title: "HW 3 - Functions, Histograms, and Groups"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw03%2Fhw03.ipynb&branch=master"
-      slides: ~
-      notebook:  ~
+      slides: slides/lecture8-group-pivot-join.pdf
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_8.ipynb&branch=master
       completed_notebook: ~
     - 
       date: 2022-02-17
