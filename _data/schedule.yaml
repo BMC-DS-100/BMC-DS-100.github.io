@@ -159,6 +159,11 @@
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-03-03
+          title: "Project 1"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fprojects%2Fproject1%2Fproject1.ipynb&branch=master"
   name: "Exploration"
 - 
   lectures: 
