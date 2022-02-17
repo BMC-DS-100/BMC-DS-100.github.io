@@ -160,7 +160,7 @@
         -
           url: "https://inferentialthinking.com/chapters/09/Randomness.html"
           title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
-      slides: ~
+      slides: "slides/lecture9-comparisons_control_statments_randomness.pdf"
       notebook:  ~
       completed_notebook: ~
       assignments: 
