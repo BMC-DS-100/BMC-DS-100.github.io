@@ -134,7 +134,7 @@
       type: "'no_lecture'"
     - 
       date: 2022-02-10
-      title: Lecture 7 <br> Pivot, Joins, & Comparisons
+      title: Lecture 7 <br> <strike>Pivot, Joins, & Comparisons</strike> <br> Functions & Apply
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
@@ -144,7 +144,7 @@
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_7_completed.ipynb&branch=master
     - 
       date: 2022-02-15
-      title: Lecture 8 <br> Control Statements (If, For) & Randomness
+      title: Lecture 8 <br> <strike>Control Statements (If, For) & Randomness</strike> Group, Pivot, Join
       assignments: 
         - 
           deadline: 2022-02-21
@@ -155,7 +155,11 @@
       completed_notebook: ~
     - 
       date: 2022-02-17
-      title: Lecture 10 <br> Control Statements
+      title: Lecture 9 <br> Comparisons & Control Statements
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/09/Randomness.html"
+          title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
       slides: ~
       notebook:  ~
       completed_notebook: ~
