@@ -161,7 +161,7 @@
           url: "https://inferentialthinking.com/chapters/09/Randomness.html"
           title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
       slides: "slides/lecture9-comparisons_control_statments_randomness.pdf"
-      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_8.ipynb&branch=master
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_9.ipynb&branch=master
       completed_notebook: ~
       assignments: 
         - 
@@ -174,8 +174,8 @@
     - 
       date: 2022-02-22
       title: Lecture 10 <br> Control Statements (loops) <br> Randomess
-      slides: ~
-      notebook:  ~
+      slides: "slides/lecture10.pdf"
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_10.ipynb&branch=master
       completed_notebook: ~
       assignments: 
         - 
