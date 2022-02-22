@@ -173,8 +173,7 @@
   lectures: 
     - 
       date: 2022-02-22
-      slides: ~
-      title: Lecture 11
+      title: Lecture 10 <br> Control Statements (loops) <br> Randomess
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -183,6 +182,11 @@
           deadline: 2022-03-01
           title: "HW 3 - Applying Functions and Iteration"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=master"
+      readings:
+        -
+          authors:
+          title: "Chapter 9.2 & 9.3"
+          url: "https://inferentialthinking.com/chapters/09/2/Iteration.html"
     - 
       date: 2022-02-22
       slides: ~
