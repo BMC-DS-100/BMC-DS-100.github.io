@@ -201,8 +201,16 @@
       type: "'deadline'"
     -  
       date: 2022-02-24
-      slides: ~
-      title: Lecture 12
+      title: Lecture 11 <br> Monty Hall <br> Probabilities
+      readings:
+        -
+          authors:
+          title: "Chapter 9.4 - The Monty Hall Problem"
+          url: "https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
+        -
+          authors:
+          title: "Chapter 9.5 - Finding Probabilites"
+          url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
