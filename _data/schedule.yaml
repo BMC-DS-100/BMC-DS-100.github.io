@@ -182,6 +182,10 @@
           deadline: 2022-03-01
           title: "HW 4 - Applying Functions and Iteration"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=master"
+        - 
+          deadline: 2022-02-28
+          title: "Lab 4 -  Simulations"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab04%2Flab04.ipynb&branch=master"
       readings:
         -
           authors:
