@@ -211,9 +211,9 @@
           authors:
           title: "Chapter 9.5 - Finding Probabilites"
           url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
-      slides: ~
-      notebook:  ~
-      completed_notebook: ~
+      slides: "slides/lecture11.pdf"
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11.ipynb&branch=master
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
     - 
       date: 2022-03-01
       slides: ~
