@@ -201,7 +201,26 @@
       type: "'deadline'"
     -  
       date: 2022-02-24
-      title: Lecture 11 <br> Monty Hall <br> Probabilities
+      title: Lecture 11 <br> <strike> Monty Hall <br> Probabilities</strike> <br> Simulations
+      readings:
+        -
+          authors:
+          title: "Chapter 9.3 - Simulation"
+          url: "https://inferentialthinking.com/chapters/09/3/Simulation.html"
+        -
+          authors:
+          title: <strike>"Chapter 9.4 - The Monty Hall Problem"</strike>
+          url: "https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
+        -
+          authors:
+          title: <strike>"Chapter 9.5 - Finding Probabilites"</strike>
+          url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
+      slides: "slides/lecture11.pdf"
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11.ipynb&branch=master
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
+    - 
+      date: 2022-03-01
+      title: Lecture 12 <br> Monty Hall <br> Probabilities
       readings:
         -
           authors:
@@ -211,34 +230,56 @@
           authors:
           title: "Chapter 9.5 - Finding Probabilites"
           url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
-      slides: "slides/lecture11.pdf"
-      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11.ipynb&branch=master
-      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
-    - 
-      date: 2022-03-01
-      slides: ~
-      title: Lecture 13
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-03-03
-      slides: ~
-      title: Lecture 14
+      title: Lecture 13 <br> Sampling, & Distributions
+      readings:
+        -
+          authors:
+          title: "Chapter 10 - Sampling and Empirical Distributions"
+          url: "https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html"
+        -
+          authors:
+          title: "Chapter 11.1 - Assessing a Model"
+          url: "https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-03-08
       slides: ~
-      title: Lecture 15
+      title: Lecture 14 <br> Statistic, Hypothesis Testing
+      readings:
+        -
+          authors:
+          title: "Chapter 10.3 - Empirical Distribution of a Statistic"
+          url: "https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html"
+        -
+          authors:
+          title: "Chapter 11.1 - Testing Hypotheses"
+          url: "https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-03-10
-      slides: ~
-      title: Lecture 16
+      title: Lecture 15 <br> Comparing Distributions & Measuring Uncertainty
+      readings:
+        -
+          authors:
+          title: "Chapter 11.2 - Multiple Categories"
+          url: "https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html"
+        -
+          authors:
+          title: "Chapter 11.3 - Decisions and Uncertainty"
+          url: "https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html"
+        -
+          authors:
+          title: "Chapter 11.4 - Error Probabilities"
+          url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
