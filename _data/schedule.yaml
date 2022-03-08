@@ -220,6 +220,9 @@
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
     - 
       date: 2022-03-01
+      title: Cancelled class
+    - 
+      date: 2022-03-03
       title: Lecture 12 <br> Monty Hall <br> Probabilities
       readings:
         -
@@ -230,11 +233,19 @@
           authors:
           title: "Chapter 9.5 - Finding Probabilites"
           url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
-      slides: ~
-      notebook:  ~
-      completed_notebook: ~
+      slides: Slides from last lecture
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
+      assignments: 
+        - 
+          deadline: 2022-03-11
+          title: "HW 5 - Probability, Simulation, Estimation, and Assessing Models"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=master"
+        - 
+          deadline: 2022-03-11
+          title: "Lab 5 - Examining the Therapeutic Touch"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab05%2Flab05.ipynb&branch=master"
     - 
-      date: 2022-03-03
+      date: 2022-03-08
       title: Lecture 13 <br> Sampling, & Distributions
       readings:
         -
@@ -245,20 +256,11 @@
           authors:
           title: "Chapter 11.1 - Assessing a Model"
           url: "https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html"
-      assignments: 
-        - 
-          deadline: 2022-03-10
-          title: "HW 5 - "
-          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=master"
-        - 
-          deadline: 2022-03-11
-          title: "Lab 5 - Examining the Therapeutic Touch"
-          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab05%2Flab05.ipynb&branch=master"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
-      date: 2022-03-08
+      date: 2022-03-10
       slides: ~
       title: Lecture 14 <br> Statistic, Hypothesis Testing
       readings:
@@ -274,7 +276,15 @@
       notebook:  ~
       completed_notebook: ~
     - 
-      date: 2022-03-10
+      date: 2022-03-15
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2022-03-17
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2022-03-22
       title: Lecture 15 <br> Comparing Distributions & Measuring Uncertainty
       readings:
         -
@@ -289,21 +299,6 @@
           authors:
           title: "Chapter 11.4 - Error Probabilities"
           url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
-      slides: ~
-      notebook:  ~
-      completed_notebook: ~
-    - 
-      date: 2022-03-15
-      title: Spring Break
-      type: "'no_lecture'"
-    - 
-      date: 2022-03-17
-      title: Spring Break
-      type: "'no_lecture'"
-    - 
-      date: 2022-03-22
-      slides: ~
-      title: Lecture 17 <br> Potential Midterm
       slides: ~
       notebook:  ~
       completed_notebook: ~
