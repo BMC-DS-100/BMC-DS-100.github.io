@@ -86,18 +86,18 @@ as the course meetings and labs
 </tr>
 <tr align="center">
 <td align="center">Dingwen Xie</td>
-<td align="center"> Wednesday </td>
-<td>10-11:30am </td>
+<td align="center"> Wednesday <br> Thursday </td>
+<td>10-11:30am <br> 7:30-9:30pm (Zoom) </td>
 </tr>
 <tr align="center">
 <td align="center">Saloni Gupta Ajay Kumar</td>
-<td align="center"> Tuesday </td>
-<td>4-5:30pm </td>
+<td align="center"> Tuesday <br> Monday </td>
+<td>4-5:30pm <br> 10:00-11:30am (Zoom) </td>
 </tr>
 <tr align="center">
 <td align="center">Yosha Singh Tomar</td>
-<td align="center"> Friday </td>
-<td>4-5:30pm </td>
+<td align="center"> Thursday <br> Friday </td>
+<td> 2-3:30pm <br> 4-5:30pm (Zoom) </td>
 </tr>
 <tr align="center">
 <td align="center">Pranathi Srirangam</td>
