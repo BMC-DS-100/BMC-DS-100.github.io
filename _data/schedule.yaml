@@ -299,6 +299,11 @@
           authors:
           title: "Chapter 11.4 - Error Probabilities"
           url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
+      assignments: 
+        - 
+          deadline: 2022-03-29
+          title: "HW 6"
+          url: 
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -316,6 +321,11 @@
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-04-04
+          title: "HW 7"
+          url: 
     - 
       date: 2022-03-31
       slides: ~
@@ -333,6 +343,11 @@
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-04-11
+          title: "HW 8"
+          url: 
     - 
       date: 2022-04-07
       slides: ~
@@ -347,6 +362,11 @@
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-04-18
+          title: "HW 9"
+          url: 
     - 
       date: 2022-04-14
       slides: ~
@@ -361,6 +381,11 @@
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2022-04-25
+          title: "HW 10"
+          url: 
     - 
       date: 2022-04-21
       slides: ~
