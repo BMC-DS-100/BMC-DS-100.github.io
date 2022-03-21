@@ -238,7 +238,7 @@
       assignments: 
         - 
           deadline: 2022-03-11
-          title: "HW 5 - Probability, Simulation, Estimation, and Assessing Models"
+          title: "HW 5 - Probability, Simulation, Estimation,<br>and Assessing Models"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=master"
         - 
           deadline: 2022-03-11
@@ -301,8 +301,9 @@
           url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
       assignments: 
         - 
-          deadline: 2022-03-29
-          title: "HW 6"
+          deadline: 2022-03-31
+          title: "HW 6 - Testing Hypotheses"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw06%2Fhw06.ipynb&branch=master"
           url: 
       slides: ~
       notebook:  ~
@@ -323,8 +324,9 @@
       completed_notebook: ~
       assignments: 
         - 
-          deadline: 2022-04-04
-          title: "HW 7"
+          deadline: 2022-04-07
+          title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=master"
           url: 
     - 
       date: 2022-03-31
@@ -345,8 +347,9 @@
       completed_notebook: ~
       assignments: 
         - 
-          deadline: 2022-04-11
-          title: "HW 8"
+          deadline: 2022-04-14
+          title: "HW 8 - Linear Regression" 
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=master"
           url: 
     - 
       date: 2022-04-07
@@ -364,7 +367,7 @@
       completed_notebook: ~
       assignments: 
         - 
-          deadline: 2022-04-18
+          deadline: 2022-04-21
           title: "HW 9"
           url: 
     - 
@@ -383,7 +386,7 @@
       completed_notebook: ~
       assignments: 
         - 
-          deadline: 2022-04-25
+          deadline: 2022-04-28
           title: "HW 10"
           url: 
     - 
