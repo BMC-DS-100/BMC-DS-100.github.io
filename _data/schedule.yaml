@@ -311,14 +311,24 @@
     - 
       date: 2022-03-24
       slides: ~
-      title: Lecture 18
+      title: Lecture 16 <br> A/B Testing
+      readings:
+        -
+          authors:
+          title: "Chapter 12 - Comparing Two Samples"
+          url: "https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-03-29
       slides: ~
-      title: Lecture 19
+      title: Lecture 17 <br> Causality and Estimation Variability
+      readings:
+        -
+          authors:
+          title: "Chapter 13 - 13.1 - Estimation"
+          url: "https://inferentialthinking.com/chapters/13/Estimation.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -331,7 +341,12 @@
     - 
       date: 2022-03-31
       slides: ~
-      title: Lecture 20
+      title: Lecture 18 <br> Bootstrap
+      readings:
+        -
+          authors:
+          title: "Chapter 13 - Boostrap"
+          url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
