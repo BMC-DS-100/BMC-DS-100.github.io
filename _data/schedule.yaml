@@ -304,7 +304,6 @@
           deadline: 2022-03-31
           title: "HW 6 - Testing Hypotheses"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw06%2Fhw06.ipynb&branch=master"
-          url: 
       slides: "slides/lecture15.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_15.ipynb&branch=master
       completed_notebook: ~
@@ -337,7 +336,6 @@
           deadline: 2022-04-07
           title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=master"
-          url: 
     - 
       date: 2022-03-31
       slides: ~
@@ -365,7 +363,6 @@
           deadline: 2022-04-14
           title: "HW 8 - Linear Regression" 
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=master"
-          url: 
     - 
       date: 2022-04-07
       slides: ~
