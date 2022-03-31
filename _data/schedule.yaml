@@ -346,13 +346,13 @@
     - 
       date: 2022-03-31
       slides: ~
-      title: Lecture 18 <br> Bootstrap
+      title: Lecture 18 <br> Bootstrap <br> Confidence Interval
       readings:
         -
           authors:
           title: "Chapter 13 - Boostrap"
           url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
-      slides: ~
+      slides: "slides/lecture18.pdf"
       notebook:  ~
       completed_notebook: ~
   name: "Inference" 
