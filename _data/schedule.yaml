@@ -324,7 +324,6 @@
           url: "https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html"
       slides: "slides/lecture16.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_16.ipynb&branch=master
-      completed_notebook: ~
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_16_completed.ipynb&branch=master
     - 
       date: 2022-03-29
@@ -335,7 +334,7 @@
           authors:
           title: "Chapter 13 - 13.1 - Estimation"
           url: "https://inferentialthinking.com/chapters/13/Estimation.html"
-      completed_notebook: ~
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_17_completed.ipynb&branch=master
       slides: "slides/lecture17.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_17.ipynb&branch=master
       assignments: 
@@ -343,6 +342,10 @@
           deadline: 2022-04-07
           title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=master"
+        - 
+          deadline: 2022-04-04
+          title: "Lab 7 - Normal Distribution and Variance of Sample Means"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab07%2Flab07.ipynb&branch=master"
     - 
       date: 2022-03-31
       slides: ~
