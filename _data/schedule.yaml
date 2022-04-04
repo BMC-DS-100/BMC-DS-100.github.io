@@ -356,8 +356,12 @@
           title: "Chapter 13 - Boostrap"
           url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
       slides: "slides/lecture18.pdf"
-      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_18.ipynb&branch=master
       assignments: 
+        - 
+          deadline: 2022-04-18
+          title: "Project 2 (released 04/04)"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fprojects%2Fproject2%2Fproject2.ipynb&branch=master"
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_18.ipynb&branch=master
       completed_notebook: ~
   name: "Inference" 
 - 
