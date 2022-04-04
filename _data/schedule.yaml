@@ -364,8 +364,16 @@
   lectures: 
     - 
       date: 2022-04-05
-      slides: ~
-      title: Lecture 21
+      title: Lecture 19 <br> Confidence Intervals <br> Center and Spread <br> Standard Deviations and Normal Distributions
+      readings:
+        -
+          authors:
+          title: "Chapter 13.4. Using Confidence Intervals"
+          url: "https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html"
+        -
+          authors:
+          title: "Chapter 14. Why the Mean Matter"
+          url: "https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -377,14 +385,27 @@
     - 
       date: 2022-04-07
       slides: ~
-      title: Lecture 22
+      title: Lecture 20 <br> Correlation <br> Nearest Neighbor Regression
+      readings:
+        -
+          authors:
+          title: "Chapter 15. Prediction (introduction)"
+          url: "https://inferentialthinking.com/chapters/15/Prediction.html"
+        -
+          authors:
+          title: "Chapter 15.1 Correlation"
+          url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-04-12
-      slides: ~
-      title: Lecture 23
+      title: Lecture 21 <br> Linear Regression <br> Least Squares & Residuals
+      readings:
+        -
+          authors:
+          title: "Chapter 15. Prediction (15.2 - 15.6)"
+          url: "https://inferentialthinking.com/chapters/15/Prediction.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -396,14 +417,19 @@
     - 
       date: 2022-04-14
       slides: ~
-      title: Lecture 24
+      title: Lecture 22 <br> Regression Inference
+      readings:
+        -
+          authors:
+          title: "Chapter 16. Inference for Regression"
+          url: "https://inferentialthinking.com/chapters/16/Inference_for_Regression.html"
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-04-19
       slides: ~
-      title: Lecture 25
+      title: Lecture 23
       slides: ~
       notebook:  ~
       completed_notebook: ~
@@ -415,21 +441,21 @@
     - 
       date: 2022-04-21
       slides: ~
-      title: Lecture 26
+      title: Lecture 24
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-04-26
       slides: ~
-      title: Lecture 27
+      title: Lecture 25
       slides: ~
       notebook:  ~
       completed_notebook: ~
     - 
       date: 2022-04-28
       slides: ~
-      title: Lecture 28
+      title: Lecture 26
       slides: ~
       notebook:  ~
       completed_notebook: ~
