@@ -426,6 +426,11 @@
           authors:
           title: "Chapter 16. Inference for Regression"
           url: "https://inferentialthinking.com/chapters/16/Inference_for_Regression.html"
+      assignments: 
+        - 
+          deadline: 2022-05-02
+          title: "Project 3: Movie Classification"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fprojects%2Fproject3%2Fproject3.ipynb&branch=master"
       slides: ~
       notebook:  ~
       completed_notebook: ~
