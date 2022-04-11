@@ -414,9 +414,9 @@
       completed_notebook: ~
       assignments: 
         - 
-          deadline: 2022-04-21
-          title: "HW 9"
-          url: 
+          deadline: 2022-04-25
+          title: "HW 9 - Regression Inference"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw09%2Fhw09.ipynb&branch=master"
     - 
       date: 2022-04-14
       slides: ~
@@ -439,8 +439,8 @@
       assignments: 
         - 
           deadline: 2022-04-28
-          title: "HW 10"
-          url: 
+          title: "HW 10 - Classification"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw10%2Fhw10.ipynb&branch=master"
     - 
       date: 2022-04-21
       slides: ~
