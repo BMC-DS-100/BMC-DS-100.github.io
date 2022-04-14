@@ -407,7 +407,7 @@
           url: "https://inferentialthinking.com/chapters/15/Prediction.html"
       slides: "slides/lecture21.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_21.ipynb&branch=master
-      completed_notebook: ~
+      completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_21_completed.ipynb&branch=master
       assignments: 
         - 
           deadline: 2022-04-25
@@ -419,7 +419,7 @@
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab08%2Flab08.ipynb&branch=master"
     - 
       date: 2022-04-14
-      slides: ~
+      slides: "slides/lecture22.pdf"
       title: Lecture 22 <br> Regression Inference
       readings:
         -
@@ -431,8 +431,7 @@
           deadline: 2022-05-02
           title: "Project 3: Movie Classification"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fprojects%2Fproject3%2Fproject3.ipynb&branch=master"
-      slides: ~
-      notebook:  ~
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_21.ipynb&branch=master
       completed_notebook: ~
     - 
       date: 2022-04-19
