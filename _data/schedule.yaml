@@ -436,7 +436,7 @@
     - 
       date: 2022-04-19
       slides: "slides/lecture23.pdf"
-      title: Lecture 23
+      title: Lecture 23 <br> Regression Inference
       completed_notebook: ~
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_23.ipynb&branch=master
       assignments: 
@@ -447,10 +447,23 @@
     - 
       date: 2022-04-21
       slides: ~
-      title: Lecture 24
+      title: Lecture 24 <br> Classification
       slides: ~
       notebook:  ~
       completed_notebook: ~
+      readings:
+         -
+           url: https://www.inferentialthinking.com/chapters/17/Classification.html
+           title: "Chapter 17 - Classification"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html
+           title: "Chapter 17.1 - Nearest Neighbors"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/2/Training_and_Testing.html
+           title: "Chapter 17.2 - Training and Testing"
+         -
+           url: https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
+           title: "Chapter 17.3 - Rows of Tables"
     - 
       date: 2022-04-26
       slides: ~
