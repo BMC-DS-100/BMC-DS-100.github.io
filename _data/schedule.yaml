@@ -435,11 +435,10 @@
       completed_notebook: ~
     - 
       date: 2022-04-19
-      slides: ~
+      slides: "slides/lecture23.pdf"
       title: Lecture 23
-      slides: ~
-      notebook:  ~
       completed_notebook: ~
+      notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_23.ipynb&branch=master
       assignments: 
         - 
           deadline: 2022-04-28
