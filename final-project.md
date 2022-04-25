@@ -20,25 +20,27 @@ Final Project
 =============================================================
 
 The final project is a group projct where you will put the tools and methods you learned in this course into action. You will ask research questions based on datasets that we provide and then use the methods you learned this semester to answer these questions.
-Your team can choose between 6 datasets. We provide a completed [example](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for you as well. 
+Your team can choose between (TODO: add number) datasets. We provide a completed [example](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for you as well. 
  All group members (at most 2 unless given approval for 3) will receive the same grade on the project.
 
-The final project is open-ended and will result in a research report.  We have provided structure and specific guidelines on what the research report must contain ([guidelines below](#research-report)) but there is a wide range of what you might do.  Check out the [example final project](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for an idea of what constitutes a good project.  The example shows the scope of what you're required to do.
+The final project is open-ended and will result in a research report.  We have provided structure and specific guidelines on what the research report must contain ([guidelines below](#research-report)) but there is a wide range of what you might do.  Check out the [example final project](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fexample%2Fexample_report.ipynb&branch=master) for an idea of what constitutes a good project.  The example shows the scope of what you're required to do.
 
 The different deliverables required for the final project are:
 
-* [Part 1: Preregisteration](#preregistration). **Due Saturday 12/19 11:59PM** This is worth 5 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction.
-* [Part 2: Final Write Up](#final-write-up). **Due Wednesday 12/23 11:59PM** This is worth 20 points of your final project grade.
+* [Part 1: Preregisteration](#preregistration). **Due Thursday 05/05 11:59PM** This is worth 5 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction.
+* [Part 2: Final Write Up](#final-write-up). **Due Thursday 05/12 11:59PM** This is worth 20 points of your final project grade.
 
 ### Datasets
-You have an option of 6 datasets to explore and analyze. We have provided a notebook on JupyterHub for each of these datasets. These datasets are:
+You have an option of (TODO: add number) datasets to explore and analyze. We have provided a notebook on JupyterHub for each of these datasets. These datasets are:
 
+<!--
 - [Family & Household Wealth in the United States (2009-2013)](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2FUS-wealth%2Fwealth-final-project.ipynb&branch=master)
 - [Airbnb Listings and Evictions](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fairbnb%2Fairbnb-final-project.ipynb&branch=master)
 - [1987 National Indonesia Contraceptive Prevalence Survey](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fcontraceptive-data%2Fcontraceptives-final-project.ipynb&branch=master)
 - [Free Music Archive - A Dataset For Music](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Ffma-analysis%2Fmusic-final-project.ipynb&branch=master)
 - [2020 Human Resources Dataset](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fhr-dataset%2Fhr-final-project.ipynb&branch=master)
 - [California Police Scorecard](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fpolice-scorecard%2Fpolice-scorecard-final-project.ipynb&branch=master)
+-->
 
 The notebooks each contain 4 main parts:
 
@@ -157,10 +159,10 @@ For your project proposal and preregistration, please submit
 the research report with the first two sections filled out (introduction and hypothesis testing and prediction questions). You can also include the 3rd section (Exploratory Data Analysis) but it is not required. For this deadline, these sections do not need to be complete and formal. An outline that conveys the theme of your final projet, the questions you are asking, and the methods you will use to answer the questions will suffice.
 
 
-Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Saturday 12/19 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project.
+Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Thursday 05/12 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project.
 
 ### Final Write Up
-The final project write up will be due by **Wednesday 12/23 11:59pm (EST)**
+The final project write up will be due by **Thursday 05/12 11:59pm (EST)**
 
 <br>
 
@@ -208,4 +210,4 @@ Table C includes just the Region variable and is much easier to read. We can eas
 
 
 ## Acknowledgments
-These datasets have been gathered and cleaned by the data8 summer 2020 course staff. Thank you!
+These datasets have been gathered and cleaned by the data8 summer 2020 course staff as well as the BC COMS 1016 Spring 2022 staff. Thank you!
