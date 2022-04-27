@@ -27,20 +27,18 @@ The final project is open-ended and will result in a research report.  We have p
 
 The different deliverables required for the final project are:
 
-* [Part 1: Preregisteration](#preregistration). **Due Thursday 05/05 11:59PM** This is worth 5 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction.
+* [Part 1: Preregisteration](#preregistration). **Due Thursday 05/05 11:59PM** This is worth 5 points of your final project grade. The earlier your pre-register your questions and experiments with us (on gradescope), the earlier we can provide feedback and direction. Upload the pdf of your notebook to [this google form](https://forms.gle/vDQPp2nE5niPzUFQ6)
 * [Part 2: Final Write Up](#final-write-up). **Due Thursday 05/12 11:59PM** This is worth 20 points of your final project grade.
 
 ### Datasets
-You have an option of (TODO: add number) datasets to explore and analyze. We have provided a notebook on JupyterHub for each of these datasets. These datasets are:
+You have an option of at least 6 datasets to explore and analyze. We have provided a notebook on JupyterHub for each of these datasets. These datasets are:
 
-<!--
-- [Family & Household Wealth in the United States (2009-2013)](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2FUS-wealth%2Fwealth-final-project.ipynb&branch=master)
-- [Airbnb Listings and Evictions](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fairbnb%2Fairbnb-final-project.ipynb&branch=master)
-- [1987 National Indonesia Contraceptive Prevalence Survey](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fcontraceptive-data%2Fcontraceptives-final-project.ipynb&branch=master)
-- [Free Music Archive - A Dataset For Music](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Ffma-analysis%2Fmusic-final-project.ipynb&branch=master)
-- [2020 Human Resources Dataset](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fhr-dataset%2Fhr-final-project.ipynb&branch=master)
-- [California Police Scorecard](http://jupyterhub.coms1016.barnard.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-f20&urlpath=tree%2Fmaterials-f20%2Ffinal-project%2Fpolice-scorecard%2Fpolice-scorecard-final-project.ipynb&branch=master)
--->
+- [Family & Household Wealth in the United States (2009-2013)](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2FUS-wealth%2Fwealth-final-project.ipynb&branch=master)
+- [Airbnb Listings and Evictions](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fairbnb%2Fairbnb-final-project.ipynb&branch=master)
+- [1987 National Indonesia Contraceptive Prevalence Survey](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fcontraceptive-data%2Fcontraceptives-final-project.ipynb&branch=master)
+- [Free Music Archive - A Dataset For Music](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Ffma-analysis%2Fmusic-final-project.ipynb&branch=master)
+- [2020 Human Resources Dataset](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fhr-dataset%2Fhr-final-project.ipynb&branch=master)
+- [California Police Scorecard](http://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2Ffinal-project%2Fpolice-scorecard%2Fpolice-scorecard-final-project.ipynb&branch=master)
 
 The notebooks each contain 4 main parts:
 
@@ -68,7 +66,7 @@ The idea here is to familiarize your readers with the data and variables.
         
 **Note: Keep the text length in this section between 250-300 words**
 
-## 2. Hypothesis Testing and Prediction Questions 
+## 2. Hypothesis Testing and Prediction Questions
 
 In this section you should explain the overarching theme and direction of your research report. You will then describe your hypothesis testing question and state the null hypothesis and the alternative hypothesis. You will also use this section to **state** your prediction testing question.
 
@@ -81,7 +79,7 @@ For your prediction question, you will explain and justify which model and featu
 You don't need to need to implement the tests in Python Code in this section. You will do that in section 4.
 **Note: Keep the text length in this section between 250-300 words long.**
 
-## 3. Exploratory Data Analysis 
+## 3. Exploratory Data Analysis
 > Visualize, and then quantify!
 
 In this section you will create visualizations exploring the dataset. 
@@ -103,7 +101,7 @@ We provide tips for your visualizations [below](#tips-and-suggestions)
 
 ## 4. Experiments
 
-### A. Hypothesis Testing 
+### A. Hypothesis Testing
 
 In this section, you will now test your hypothesis. Please begin this section by stating the hypothesis test being performed. You should motivate and explain the test and why it is appropriate here.
 Make sure to also 1) restate the null hypothesis, 2) restate the alternative, 3) declare on a cut-off for a significance level.
@@ -159,10 +157,10 @@ For your project proposal and preregistration, please submit
 the research report with the first two sections filled out (introduction and hypothesis testing and prediction questions). You can also include the 3rd section (Exploratory Data Analysis) but it is not required. For this deadline, these sections do not need to be complete and formal. An outline that conveys the theme of your final projet, the questions you are asking, and the methods you will use to answer the questions will suffice.
 
 
-Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Thursday 05/12 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project.
+Please submit the JupyterNotebook to Gradescope (Final Project Proposal /Preregistration) by **Thursday 05/12 11:59pm (EST)**. The earlier you submit your project preregistration/proposal, the earlier we will provide feedback and suggestions on how to improve your final-project. Please also upload the pdf of the notebook to [this google form](https://forms.gle/vDQPp2nE5niPzUFQ6)
 
 ### Final Write Up
-The final project write up will be due by **Thursday 05/12 11:59pm (EST)**
+The final project write up will be due by **Thursday 05/12 11:59pm (EST)**. Please submit the completed notebook to gradescope (Final Project) and the pdf of the notebook to [this google form](https://forms.gle/PkLQYjxkF9t8PbQW6)
 
 <br>
 
@@ -170,7 +168,7 @@ The final project write up will be due by **Thursday 05/12 11:59pm (EST)**
 # Tips and suggestions
 We provide some tips and suggestions that will help you while working on your final projects.
 
-### Note of Reproducibility 
+### Note of Reproducibility
 
 The hypothesis testing and prediction sections’ results rely on random permutations and/or simulations which utilize pseudorandom number generators from your computers to perform the random draws. These random draws ultimately can affect the random permutations/simulations and produce varied results each time you run your code. To keep your results more constant we can provide our own random number, called a seed, to ensure that the random permutations/simulations don't vary between running your experiments. 
 
