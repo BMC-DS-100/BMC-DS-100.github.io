@@ -78,12 +78,11 @@ Course Readings
 : Some lectures will have accompanying optional reading related to the lecture's topic
 
 Grading
-: TBD
-* Homeworks:
-* Labs:
-* Projects:
-* Midterm:
-* Final:
+* Homeworks: 25%
+* Labs: 10%
+* Projects: 20%
+* Midterm: 15%
+* Final Project: 25% 
 * Participation: 5%
 
 <!--- 
