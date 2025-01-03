@@ -61,6 +61,10 @@
           url: "https://www.inferentialthinking.com/chapters/05/Sequences.html"
           title: "Chapter 5: Sequences"
     - 
+      date: 2025-01-29
+      title: End of Add period
+      type: "'deadline'"
+    - 
       date: 2025-01-30
       title: Lecture 4 <br> More Tables
       _slides: "slides/lecture4-arrays_sequences.pdf"
@@ -113,6 +117,10 @@
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_6.ipynb&branch=master
       completed_notebook: ~
     - 
+      date: 2025-02-07
+      title: Last day to drop
+      type: "'deadline'"
+    - 
       date: 2025-02-11
       _slides: ~
       title: Lecture 7 <br> Functions & Apply, Group, Pivot
@@ -122,7 +130,7 @@
           title: "HW 2 - Table Manipulation and Visualization"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master"
         - 
-          deadline: 2025-2-14
+          deadline: 2025-02-17
           title: "Lab 3 - Functions and Visualizations"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab03%2Flab03.ipynb&branch=master"
       readings:
@@ -143,13 +151,17 @@
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_7.ipynb&branch=master
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_7_completed.ipynb&branch=master
     - 
-      date: 202-402-18
-      title: Lecture 9 <br> <strike>Control Statements (If, For) & Randomness</strike> Group, Pivot, Join
+      date: 2025-02-18
+      title: Lecture 9 <br> Control Statements (If, For) & Randomness
       assignments: 
         - 
           deadline: 2025-2-21
           title: "HW 3 - Functions, Histograms, and Groups"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw03%2Fhw03.ipynb&branch=master"
+        - 
+          deadline: 2025-02-24
+          title: "Lab 4 -  Simulations"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab04%2Flab04.ipynb&branch=master"
       _slides: slides/lecture8-group-pivot-join.pdf
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_8.ipynb&branch=master
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_8_completed.ipynb&branch=master
@@ -183,22 +195,14 @@
           title: "HW 4 - Applying Functions and Iteration"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=master"
         - 
-          deadline: 2025-2-28
-          title: "Lab 4 -  Simulations"
+          deadline: 2025-03-03
+          title: "Lab 5 -  Examining the Therapuetic Touch"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab04%2Flab04.ipynb&branch=master"
       readings:
         -
           authors:
           title: "Chapter 9.2 & 9.3"
           url: "https://inferentialthinking.com/chapters/09/2/Iteration.html"
-    - 
-      date: 2025-2-22
-      _slides: ~
-      title: Last day to drop
-      _slides: ~
-      notebook:  ~
-      completed_notebook: ~
-      type: "'deadline'"
     -  
       date: 2025-02-27
       title: Lecture 12 <br> <strike> Monty Hall <br> Probabilities</strike> <br> Simulations
@@ -219,6 +223,10 @@
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11.ipynb&branch=master
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
     - 
+      date: 2025-02-28
+      title: Last day to declare Cr/NC
+      type: "'deadline'"
+    - 
       date: 2025-03-04
       title: Lecture 13 <br> Monty Hall <br> Probabilities
       readings:
@@ -234,12 +242,12 @@
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_11_completed.ipynb&branch=master
       assignments: 
         - 
-          deadline: 2025-3-11
+          deadline: 2025-3-20
           title: "HW 5 - Probability, Simulation, Estimation,<br>and Assessing Models"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=master"
         - 
-          deadline: 2025-3-11
-          title: "Lab 5 - Examining the Therapeutic Touch"
+          deadline: 2025-03-17
+          title: "Lab 6 - Inference and the Death Penalty"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab05%2Flab05.ipynb&branch=master"
     - 
       date: 2025-03-06
@@ -277,6 +285,10 @@
           authors:
           title: "Chapter 11.1 - Testing Hypotheses"
           url: "https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html"
+      assignments: 
+        - 
+          deadline: 2025-03-24
+          title: "Lab 7 -  Normal Distribution and Variance of Sample Means"
       _slides: "slides/lecture14.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_14.ipynb&branch=master
       completed_notebook: ~
@@ -302,10 +314,6 @@
           deadline: 2025-3-31
           title: "HW 6 - Testing Hypotheses"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw06%2Fhw06.ipynb&branch=master"
-        - 
-          deadline: 2025-3-28
-          title: "Lab 6 -  Inference and the Death Penalty"
-          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab06%2Flab06.ipynb&branch=master"
       _slides: "slides/lecture15.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_15.ipynb&branch=master
       completed_notebook: ~
@@ -319,6 +327,10 @@
           authors:
           title: "Chapter 12 - Comparing Two Samples"
           url: "https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html"
+      assignments: 
+        - 
+          deadline: 2025-03-31
+          title: "Lab 8"
       _slides: "slides/lecture16.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_16.ipynb&branch=master
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_16_completed.ipynb&branch=master
@@ -340,6 +352,10 @@
           title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=master"
     - 
+      date: 2025-03-28
+      title: Last day to withdraw
+      type: "'deadline'"
+    - 
       date: 2025-04-01
       _slides: ~
       title: Lecture 19 <br> Bootstrap <br> Confidence Interval
@@ -350,6 +366,9 @@
           url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
       _slides: "slides/lecture18.pdf"
       assignments: 
+        - 
+          deadline: 2025-04-07
+          title: "Lab 9"
         - 
           deadline: 2025-4-18
           title: "Project 2 (released 04/04)"
@@ -392,6 +411,11 @@
           authors:
           title: "Chapter 15.1 Correlation"
           url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
+      assignments: 
+        - 
+          deadline: 2025-04-14
+          title: "Lab 10 - Regression"
+          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab08%2Flab08.ipynb&branch=master"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_20.ipynb&branch=master
       completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_20_completed.ipynb&branch=master
     - 
@@ -410,10 +434,6 @@
           deadline: 2025-4-25
           title: "HW 9 - Regression Inference"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw09%2Fhw09.ipynb&branch=master"
-        - 
-          deadline: 2025-4-18
-          title: "Lab 8 - Regression"
-          url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab08%2Flab08.ipynb&branch=master"
     - 
       date: 2025-04-15
       _slides: "slides/lecture22.pdf"
@@ -442,7 +462,7 @@
           title: "HW 10 - Classification"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw10%2Fhw10.ipynb&branch=master"
     - 
-      date: 2025-04-23
+      date: 2025-04-22
       title: Lecture 25 <br> Classification
       _slides: "slides/lecture24.pdf"
       notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_24.ipynb&branch=master
@@ -461,7 +481,7 @@
            url: https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
            title: "Chapter 17.3 - Rows of Tables"
     - 
-      date: 2025-04-25
+      date: 2025-04-24
       _slides: ~
       title: Lecture 26 <br> Final Project <br> Classification II
       _slides: "slides/lecture25.pdf"
