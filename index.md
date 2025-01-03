@@ -1,5 +1,5 @@
 ---
-title: Intro to Computational Thinking & Data Science - COMS 1016 - Barnard College
+title: Intro to Computational Thinking & Data Science - DS 110 - Bryn Mawr College
 layout: default
 img: <!-- turk-engraving-detail -->
 img_link: <!-- http://en.wikipedia.org/wiki/The_Turk -->
@@ -43,7 +43,7 @@ Check out the [excellent final projects](http://crowdsourcing-class.org/final-pr
 
 
 Course number
-: [BC COMS](http://cs.barnard.edu/) 1016 - students from all majors are welcome!
+: [DSCIB] 100 - students from all majors are welcome!
 
 Instructor
 : [Adam Poliak](http://azpoliak.github.io)
@@ -52,16 +52,14 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://coms1016.barnard.edu/](https://coms1016.barnard.edu/)
+: [https://bmc-ds-100.github.io/](https://bmc-ds-100.github.io/)
 
 Discussion Forum
-: [EdStem](https://edstem.org/us/courses/18868)
+: [Piazza]() 
 
 Time and place
-: Spring 2022, TR 11:40am-12:55pm, Location: Dianna 504
-: Lab 01 W: 12:00-2:00pm
-: Lab 02 R: 4:00-6:00pm
-: Lab 03 F: 9:00-11:00am
+: Spring 2025, T/TH 1:10-2:30pm, Location: Dalton 300
+: Lab TH: 2:40-4:00pm, Location: TBD
 
 Office Hours
 : <a href="office-hours.html">Times</a>
@@ -69,20 +67,16 @@ Office Hours
 Prerequisites
 : None - no prior programming or college-math background is required
 
-Modes of Thinking Requirement
-: Thinking Quantitatively and Empirically
-: Thinking Technologically and Digitally
-
 Course Readings
 : Each lecture has an accompanying chapter/section of the [textbook](https://www.inferentialthinking.com/)
 : Some lectures will have accompanying optional reading related to the lecture's topic
 
 Grading
 * Homeworks: 25%
-* Labs: 10%
-* Projects: 20%
-* Midterm: 15%
-* Final Project: 25% 
+* Labs: 5%
+* Projects: 15%
+* Midterm: 20%
+* Final: 30% 
 * Participation: 5%
 
 <!--- 
@@ -113,7 +107,5 @@ Each student has five free "late days". Homeworks can be submitted at most two d
 -->
 
 #### Acknowledgments
-A Google Cloud Education grant is supporting the computational infrastructure for the course.
-<br> 
 Eric Van Dusen, his staff, and The Data Science Education Community have been very helpful 
-in adopting this course at Barnard. 
+in adopting this course first at Barnard and now at Bryn Mawr. 
