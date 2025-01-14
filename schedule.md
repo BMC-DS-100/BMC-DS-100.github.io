@@ -21,9 +21,9 @@ The lecture schedule will be updated as the term progresses.
 
 ### Pre-course
 
-Make sure to fill out the pre-course survey that is available on Slack.
+Make sure to fill out the pre-course survey that is available on Piazza.
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://bc-coms-1016-poliak.columbiajupyter2.org/), and [EdStem](https://edstem.org/us/courses/18868).
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://bc-coms-1016-poliak.columbiajupyter2.org/), and [Piazza](https://piazza.com/class/m5wlchewwgg1yb/).
 
 {% for week in site.data.schedule %}
   <h3>

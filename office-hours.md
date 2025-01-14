@@ -119,7 +119,7 @@ as the course meetings and labs
 
 ## Barnard CS Help Room
 
-<h4>See EdStem for link</h4>
+<h4>See Piazza for link</h4>
 
 <table>
 <thead>

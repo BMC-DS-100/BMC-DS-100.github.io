@@ -55,11 +55,11 @@ Website
 : [https://bmc-ds-100.github.io/](https://bmc-ds-100.github.io/)
 
 Discussion Forum
-: [Piazza]() 
+: [Piazza](https://piazza.com/class/m5wlchewwgg1yb/) 
 
 Time and place
 : Spring 2025, T/TH 1:10-2:30pm, Location: Dalton 300
-: Lab TH: 2:40-4:00pm, Location: TBD
+: Lab T: 2:40-4:00pm, Location: Canaday Computer Lab
 
 Office Hours
 : <a href="office-hours.html">Times</a>
@@ -99,7 +99,7 @@ This is a project-based course.  Instead of exams, you will do a series of hands
 -->
 
 Late day policy
-: To account for issues that arise in these uncertain times, each student has 10 late days for the homeworks and projects.
+: Each student has 5 late days for the homeworks and projects. At most 2 late days can be used for one assignment.
 <br>
 See the [Policies](http://localhost:4000/policies.html#late-days) for more details.
 <!--
