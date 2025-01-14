@@ -1,5 +1,5 @@
 ---
-title: Intro to Computational Thinking & Data Science - DS 110 - Bryn Mawr College
+title: Intro to Data Science - DS 110 - Bryn Mawr College
 layout: default
 img: <!-- turk-engraving-detail -->
 img_link: <!-- http://en.wikipedia.org/wiki/The_Turk -->
