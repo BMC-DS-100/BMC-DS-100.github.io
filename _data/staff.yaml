@@ -1,58 +1,15 @@
 -
     name: Adam Poliak
     pic: azpoliak.jpg
-    email: apoliak@barnard.edu
+    email: apoliak@brynmawr.edu
     webpage: https://azpoliak.github.io
     extra_title: Instructor
-    office_hours: Tuesday 1-2pm
-    location: 511 Milstein Center
+    office_hours: TBD
+    location: Park 200
 -
-    name: Dingwen Xie
-    pic: dingwen.jpg
-    email: dx2186@columbia.edu
-    office_hours: Wednesday 10-11:30 am
-    lab_hours: Wednesday 12-2 pm
+    name: TA1
+    pic: temp.jpg
+    email: ~
+    office_hours: ~Wednesday 10-11:30 am
     extra_title: Teaching Assistant
-    location: CS Help Room (Milstein 502)
--
-    name: Saloni Gupta Ajay Kumar
-    pic: Saloni_GuptaAjayKumar.jpg
-    email: sg3910@columbia.edu
-    office_hours: Tuesday 4-5:30pm
-    lab_hours: Friday 9:00-11:00am
-    extra_title: Teaching Assistant
-    location: TBD
--
-    name: Yosha Singh Tomar
-    pic: Yosha.jpeg
-    email: yt2741@columbia.edu
-    office_hours: Friday 4-5:30pm
-    lab_hours: Thursday 4-6pm
-    extra_title: Teaching Assistant
-    location: TBD
--
-    name: Pranathi Srirangam
-    pic: psrirangam.jpeg
-    email: ps3204@barnard.edu
-    office_hours: Monday 8:30-9:30pm
-    lab_hours: Wednesday 12-2
-    extra_title: Computing Fellow
--
-    name: Esha Julka
-    pic: esha.jpg
-    email: ej2422@barnard.edu
-    office_hours: Wednesday 4:30-5:30pm
-    lab_hours: Friday 9-11am
-    extra_title: Computing Fellow
--
-    name: Xueqing Ma
-    pic: xma.jpg
-    email: xm2264@barnard.edu
-    office_hours: 4-5pm
-    lab_hours: Thursday 4-6pm
-    extra_title: Computing Fellow
--
-   name: Preceptor
-   pic: temp.jpg
-   extra_title: Preceptor
-   email: preceptor@barnard.edu
+    location: ~
