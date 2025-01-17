@@ -48,7 +48,7 @@ To account for issues that arise, each student has **5 late** days for the homew
 
 ### Labs
 There are weekly labs.
-We encourage you to submit the lab after attending your lab section but the lab will be due the following Monday night.
+We encourage you to submit the lab after attending your lab section but the lab will be due the following Friday night.
 Late days **can not** be used for labs.
 
 <!--Late days can now be used for the labs.-->

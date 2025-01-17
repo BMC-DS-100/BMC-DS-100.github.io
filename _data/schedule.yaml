@@ -21,7 +21,7 @@
           url: /readings/Wing06-Comp-thinking.pdf
       assignments: 
         - 
-          deadline: 2025-01-27
+          deadline: 2025-01-24
           title: "Lab 0 - Python Intro"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab00%2Flab00.ipynb&branch=master"
     - 
@@ -32,7 +32,7 @@
       _completed_notebook: https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fdemos%2FLecture_2_completed.ipynb&branch=master
       assignments: 
         - 
-          deadline: 2025-01-30
+          deadline: 2025-01-29
           title: "HW 0 - Causality and Expressions"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=master"
       readings:
@@ -48,7 +48,7 @@
       _slides: "slides/lecture3-tables_arrays_sequences.pdf"
       assignments: 
         - 
-          deadline: 2025-02-03
+          deadline: 2025-01-31
           title: "Lab 1 - Table operations"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab01%2Flab01.ipynb&branch=master"
       readings:
@@ -90,11 +90,11 @@
       _slides: "slides/lecture5-visualization.pdf"
       assignments: 
         - 
-          deadline: 2025-02-06
+          deadline: 2025-02-05
           title: "HW 1 - Arrays and Tables"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=master"
         - 
-          deadline: 2025-02-10
+          deadline: 2025-02-07
           title: "Lab 2 - Data Types and Arrays"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab02%2Flab02.ipynb&branch=master"
     - 
@@ -119,11 +119,11 @@
       title: Lecture 7 <br> Functions & Apply, Group, Pivot
       assignments: 
         - 
-          deadline: 2025-2-14
+          deadline: 2025-2-13
           title: "HW 2 - Table Manipulation and Visualization"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=master"
         - 
-          deadline: 2025-02-17
+          deadline: 2025-02-14
           title: "Lab 3 - Functions and Visualizations"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab03%2Flab03.ipynb&branch=master"
       readings:
@@ -146,11 +146,11 @@
       title: Lecture 9 <br> Control Statements (If, For) & Randomness
       assignments: 
         - 
-          deadline: 2025-2-21
+          deadline: 2025-2-20
           title: "HW 3 - Functions, Histograms, and Groups"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw03%2Fhw03.ipynb&branch=master"
         - 
-          deadline: 2025-02-24
+          deadline: 2025-02-21
           title: "Lab 4 -  Simulations"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab04%2Flab04.ipynb&branch=master"
       _slides: slides/lecture8-group-pivot-join.pdf
@@ -164,7 +164,7 @@
       _slides: "slides/lecture9-comparisons_control_statments_randomness.pdf"
       assignments: 
         - 
-          deadline: 2025-3-03
+          deadline: 2025-02-03
           title: "Project 1"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fprojects%2Fproject1%2Fproject1.ipynb&branch=master"
   name: "Exploration"
@@ -176,11 +176,11 @@
       _slides: "slides/lecture10.pdf"
       assignments: 
         - 
-          deadline: 2025-3-01
+          deadline: 2025-3-06
           title: "HW 4 - Applying Functions and Iteration"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=master"
         - 
-          deadline: 2025-03-03
+          deadline: 2025-02-28
           title: "Lab 5 -  Examining the Therapuetic Touch"
           url: "https://bc-coms-1016-poliak.columbiajupyter2.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBC-COMS-1016%2Fmaterials-sp22&urlpath=tree%2Fmaterials-sp22%2F%2Flabs%2Flab04%2Flab04.ipynb&branch=master"
       readings:
