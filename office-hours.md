@@ -67,9 +67,6 @@ table > tbody > tr:nth-child(odd) {
 
 # Office Hours
 
-Office Hours will use the same Zoom link/room
-as the course meetings and labs
-
 <table>
 <thead>
 <tr>
@@ -81,8 +78,8 @@ as the course meetings and labs
 <tbody>
 <tr align="center">
 <td>Adam Poliak</td>
-<td align="center">Tuesday</td>
-<td>1pm-2pm</td>
+<td align="center">Friday</td>
+<td>11:30am-1pm</td>
 </tr>
 <tr align="center">
 <td align="center">Dingwen Xie</td>

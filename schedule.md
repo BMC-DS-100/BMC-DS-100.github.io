@@ -23,7 +23,8 @@ The lecture schedule will be updated as the term progresses.
 
 Make sure to fill out the pre-course survey that is available on Piazza.
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://bc-coms-1016-poliak.columbiajupyter2.org/), and [Piazza](https://piazza.com/class/m5wlchewwgg1yb/).
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/), [JupyterHub](https://dsci-b100-hub.brynmawr.edu),
+and [Piazza](https://piazza.com/class/m5wlchewwgg1yb/).
 
 {% for week in site.data.schedule %}
   <h3>
