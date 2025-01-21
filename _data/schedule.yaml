@@ -27,7 +27,7 @@
         - 
           deadline: 2025-01-29
           title: "HW 0 - Causality and Expressions"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw00%2Fhw00.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw00%2Fhw00.ipynb&branch=main"
     - 
       date: 2025-01-23
       title: Lecture 2 <br> Data Types, Expressions
@@ -53,7 +53,7 @@
         - 
           deadline: 2025-02-05
           title: "HW 1 - Arrays and Tables"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw01%2Fhw01.ipynb&branch=main"
+          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html"
@@ -99,7 +99,7 @@
         - 
           deadline: 2025-2-12
           title: "HW 2 - Table Manipulation and Visualization"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw02%2Fhw02.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main"
     - 
       date: 2025-02-06
       title: Lecture 6 <br> Histograms
@@ -128,7 +128,7 @@
         - 
           deadline: 2025-2-19
           title: "HW 3 - Functions, Tables, and Groups"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw03%2Fhw03.ipynb&branch=main"
+          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main"
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
@@ -155,7 +155,7 @@
         - 
           deadline: 2025-02-26
           title: "HW 4 - Applying Functions and Iteration"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw04%2Fhw04.ipynb&branch=main"
+          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main"
         - 
           deadline: 2025-03-05
           title: "Project 1"
@@ -181,7 +181,7 @@
         - 
           deadline: 2025-3-05
           title: "HW 5 - Probability, Simulation, Estimation,<br>and Assessing Models"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw05%2Fhw05.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main"
       readings:
         -
           authors:
@@ -229,7 +229,7 @@
         - 
           deadline: 2025-3-19
           title: "HW 6 - Testing Hypotheses"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw06%2Fhw06.ipynb&branch=main"
+          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw06%2Fhw06.ipynb&branch=main"
     - 
       date: 2025-03-06
       title: Lecture 14 <br> Sampling, & Distributions
@@ -318,7 +318,7 @@
         - 
           deadline: 2025-4-07
           title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw07%2Fhw07.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main"
     - 
       date: 2025-03-28
       title: Last day to withdraw
@@ -361,7 +361,7 @@
         - 
           deadline: 2025-4-14
           title: "HW 8 - Linear Regression" 
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw08%2Fhw08.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw08%2Fhw08.ipynb&branch=main"
     - 
       date: 2025-04-08
       _slides: "slides/lecture20.pdf"
@@ -393,7 +393,7 @@
         - 
           deadline: 2025-4-25
           title: "HW 9 - Regression Inference"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw09%2Fhw09.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw09%2Fhw09.ipynb&branch=main"
     - 
       date: 2025-04-15
       _slides: "slides/lecture22.pdf"
@@ -416,7 +416,7 @@
         - 
           deadline: 2025-4-28
           title: "HW 10 - Classification"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhomeworks%2Fhw10%2Fhw10.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main"
     - 
       date: 2025-04-22
       title: Lecture 25 <br> Classification
