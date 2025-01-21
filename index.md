@@ -99,7 +99,7 @@ This is a project-based course.  Instead of exams, you will do a series of hands
 -->
 
 Late day policy
-: Each student has 5 late days for the homeworks and projects. At most 2 late days can be used for one assignment.
+: Each student has 8 late days for the homeworks and projects. At most 2 late days can be used for one assignment.
 <br>
 See the [Policies](http://localhost:4000/policies.html#late-days) for more details.
 <!--
