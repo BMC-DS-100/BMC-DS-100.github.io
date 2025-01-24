@@ -78,42 +78,27 @@ table > tbody > tr:nth-child(odd) {
 <tbody>
 <tr align="center">
 <td>Adam Poliak</td>
-<td align="center">Friday</td>
-<td>11:30am-1pm</td>
+<td align="center">Thursday <br>Friday</td>
+<td>2:30-3:30 (Dalton 300)<br>11:30am-1pm (Park 200D)</td>
 </tr>
 <tr align="center">
-<td align="center">Dingwen Xie</td>
-<td align="center"> Wednesday <br> Thursday </td>
-<td>10-11:30am <br> 7:30-9:30pm (Zoom) </td>
+<td align="center">Allison Liao</td>
+<td align="center">TBD <br> TBD </td>
+<td>TBD <br> TBD </td>
 </tr>
 <tr align="center">
-<td align="center">Saloni Gupta Ajay Kumar</td>
-<td align="center"> Tuesday <br> Monday </td>
-<td>4-5:30pm <br> 10:00-11:30am (Zoom) </td>
+<td align="center">Patrick Kelley</td>
+<td align="center"> TBD<br> TBD</td>
+<td>TBD <br> TBD </td>
 </tr>
 <tr align="center">
-<td align="center">Yosha Singh Tomar</td>
-<td align="center"> Thursday <br> Friday </td>
-<td> 2-3:30pm <br> 4-5:30pm (Zoom) </td>
-</tr>
-<tr align="center">
-<td align="center">Pranathi Srirangam</td>
-<td align="center"> Monday </td>
-<td>8:30-9:30pm </td>
-</tr>
-<tr align="center">
-<td align="center">Esha Julka</td>
-<td align="center"> Wednesday </td>
-<td>4:30-5:30pm </td>
-</tr>
-<tr align="center">
-<td align="center">Xueqing Ma</td>
-<td align="center"> Monday </td>
-<td>4-5pm </td>
+<td align="center">Candy Li</td>
+<td align="center"> TBD<br> TBD</td>
 </tr>
 </tbody>
 </table>
 
+<!--
 ## Barnard CS Help Room
 
 <h4>See Piazza for link</h4>
@@ -144,5 +129,5 @@ table > tbody > tr:nth-child(odd) {
 </tr>
 </tbody>
 </table>
-
+-->
 
