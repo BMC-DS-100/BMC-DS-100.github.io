@@ -49,11 +49,11 @@
         - 
           deadline: 2025-01-31
           title: "Lab 1 - Table operations"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab01%2Flab01.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab01%2Flab01.ipynb&branch=main"
         - 
           deadline: 2025-02-05
           title: "HW 1 - Arrays and Tables"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main"
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/03/4/Introduction_to_Tables.html"
