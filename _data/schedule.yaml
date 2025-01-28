@@ -44,7 +44,7 @@
     - 
       date: 2025-01-28
       title: Lecture 3 <br> Tables, Arrays, & Sequences
-      slides: slides/lecture02.pdf
+      slides: slides/lecture03.pdf
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_03.ipynb&branch=main
       _completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_03_completed.ipynb&branch=main
       readings:
