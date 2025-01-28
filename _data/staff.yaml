@@ -4,12 +4,26 @@
     email: apoliak@brynmawr.edu
     webpage: https://azpoliak.github.io
     extra_title: Instructor
-    office_hours: TBD
-    location: Park 200
+    office_hours: <br> Thursday 2:30-3:30 (Dalton 300) <br> Friday 11:30-1:00 (Park 200)
+    _location: Park 200
 -
-    name: TA1
+    name: Candy Li
+    pic: candy.JPG
+    email: cli@brynmawr.edu
+    office_hours: <br> Wednesday (Time TBD) <br> Thursday (Time TBD)
+    extra_title: Teaching Assistant
+    location: ~
+-
+    name: Allison Liao
     pic: temp.jpg
-    email: ~
-    office_hours: ~Wednesday 10-11:30 am
+    email: aliao@brynmawr.edu
+    office_hours: <br> Sunday (Time TBD) <br> Tuesday (Time TBD)
+    extra_title: Teaching Assistant
+    location: ~
+-
+    name: Patrick Kelly
+    pic: temp.jpg
+    email: pakelly@haverford.edu
+    office_hours: <br> Monday (Time TBD) <br> Wednesday (Time TBD)
     extra_title: Teaching Assistant
     location: ~
