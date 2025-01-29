@@ -75,7 +75,7 @@
     - 
       date: 2025-01-30
       title: Lecture 4 <br> More Tables
-      _slides: "slides/lecture4-arrays_sequences.pdf"
+      slides: slides/lecture04.pdf
       readings:
         -
           url: "https://www.inferentialthinking.com/chapters/06/Tables.html"
