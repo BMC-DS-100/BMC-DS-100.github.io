@@ -100,9 +100,9 @@
         - 
           deadline: 2025-02-07
           title: "Lab 2 - Data Types and Arrays"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab02%2Flab02.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab01%2Flab01.ipynb&branch=main"
         - 
-          deadline: 2025-2-12
+          deadline: 2025-02-12
           title: "HW 2 - Table Manipulation and Visualization"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main"
     - 
