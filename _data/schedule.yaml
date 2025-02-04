@@ -89,6 +89,7 @@
       date: 2025-02-04
       title: Lecture 5 <br> Visualization
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_05.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_05_completed.ipynb&branch=main
       readings:
         -
           url: "https://inferentialthinking.com/chapters/07/Visualization.html"
