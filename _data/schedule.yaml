@@ -88,6 +88,7 @@
     - 
       date: 2025-02-04
       title: Lecture 5 <br> Visualization
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_05.ipynb&branch=main
       readings:
         -
           url: "https://inferentialthinking.com/chapters/07/Visualization.html"
@@ -95,12 +96,12 @@
         -
           url: "https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html"
           title: "Chapter 7.1 Categorical Distributions"
-      _slides: "slides/lecture5-visualization.pdf"
+      slides: "slides/lecture05.pdf"
       assignments: 
         - 
           deadline: 2025-02-07
           title: "Lab 2 - Data Types and Arrays"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab01%2Flab01.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab02%2Flab02.ipynb&branch=main"
         - 
           deadline: 2025-02-12
           title: "HW 2 - Table Manipulation and Visualization"
