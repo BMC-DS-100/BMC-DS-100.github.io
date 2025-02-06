@@ -110,6 +110,9 @@
     - 
       date: 2025-02-06
       title: Lecture 6 <br> Histograms
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_06.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_06_completed.ipynb&branch=main
+      readings:
       readings:
         -
           url: "https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html"
@@ -117,7 +120,7 @@
         -
           url: "https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html"
           title: "Chapter 7.3 Overlaid Graphs"
-      _slides: "slides/lecture6-histograms.pdf"
+      slides: "slides/lecture06.pdf"
       completed_notebook: ~
     - 
       date: 2025-02-07
