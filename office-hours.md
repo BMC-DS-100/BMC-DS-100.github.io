@@ -83,17 +83,18 @@ table > tbody > tr:nth-child(odd) {
 </tr>
 <tr align="center">
 <td align="center">Allison Liao</td>
-<td align="center">TBD <br> TBD </td>
-<td>TBD <br> TBD </td>
+<td align="center">Sunday <br> TBD </td>
+<td>6-8pm <br> TBD </td>
 </tr>
 <tr align="center">
 <td align="center">Patrick Kelley</td>
-<td align="center"> TBD<br> TBD</td>
-<td>TBD <br> TBD </td>
+<td align="center"> Monday<br> Wednesday</td>
+<td>2-4 (HC Lutnick 223) <br> 4-6 </td>
 </tr>
 <tr align="center">
 <td align="center">Candy Li</td>
-<td align="center"> TBD<br> TBD</td>
+<td align="center"> Wednesday<br> Thursday</td>
+<td>5-7 <br> 5-7 </td>
 </tr>
 </tbody>
 </table>
