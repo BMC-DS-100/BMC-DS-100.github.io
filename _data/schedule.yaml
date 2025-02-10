@@ -138,14 +138,13 @@
         - 
           deadline: 2025-2-19
           title: "HW 3 - Functions, Tables, and Groups"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main"
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
           title: "Chapter 8. Functions and Tables"
       notebook:  ~
       completed_notebook: ~
-      type: "'no_lecture'"
     - 
       date: 2025-02-13
       title: Lecture 8 <br> <strike>Pivot, Joins, & Comparisons</strike> <br> Functions & Apply
