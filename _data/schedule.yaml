@@ -121,14 +121,13 @@
           url: "https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html"
           title: "Chapter 7.3 Overlaid Graphs"
       slides: "slides/lecture06.pdf"
-      completed_notebook: ~
     - 
       date: 2025-02-07
       title: Last day to drop
       type: "'deadline'"
     - 
       date: 2025-02-11
-      _slides: ~
+      slides: "slides/lecture07.pdf"
       title: Lecture 7 <br> Functions & Apply, Group, Pivot
       assignments: 
         - 
@@ -143,8 +142,9 @@
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
           title: "Chapter 8. Functions and Tables"
-      notebook:  ~
-      completed_notebook: ~
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_07.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_07_completed.ipynb&branch=main
+      readings:
     - 
       date: 2025-02-13
       title: Lecture 8 <br> <strike>Pivot, Joins, & Comparisons</strike> <br> Functions & Apply
@@ -154,7 +154,7 @@
           title: "Chapter 8. Functions and Tables"
       assignments: 
         - 
-          deadline: 2025-03-05
+          deadline: 2025-02-28
           title: "Project 1"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fprojects%2Fproject1%2Fproject1.ipynb&branch=main"
       _slides: slides/lecture7-functions.pdf
