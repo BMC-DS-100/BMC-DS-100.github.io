@@ -147,7 +147,7 @@
       readings:
     - 
       date: 2025-02-13
-      title: Lecture 8 <br> <strike>Pivot, Joins, & Comparisons</strike> <br> Functions & Apply
+      title: Lecture 8 <br> Pivot, Joins, & Comparisons
       readings:
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
