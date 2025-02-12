@@ -83,8 +83,8 @@ table > tbody > tr:nth-child(odd) {
 </tr>
 <tr align="center">
 <td align="center">Allison Liao</td>
-<td align="center">Sunday <br> TBD </td>
-<td>6-8pm <br> TBD </td>
+<td align="center">Sunday <br> Tuesday </td>
+<td>6-8pm <br> 7-9pm </td>
 </tr>
 <tr align="center">
 <td align="center">Patrick Kelley</td>
