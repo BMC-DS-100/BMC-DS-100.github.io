@@ -157,7 +157,7 @@
           deadline: 2025-02-28
           title: "Project 1"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fproject%2Fproject1%2Fproject1.ipynb&branch=main"
-      _slides: slides/lecture7-functions.pdf
+      slides: slides/lecture08.pdf
     - 
       date: 2025-02-18
       title: Lecture 9 <br> Control Statements (If, For) & Randomness
