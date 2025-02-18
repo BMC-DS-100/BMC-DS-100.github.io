@@ -163,6 +163,10 @@
     - 
       date: 2025-02-18
       title: Lecture 9 <br> Comparisons <br> Control Statements (If, For) & Randomness
+      readings:
+        -
+          url: "https://inferentialthinking.com/chapters/09/Randomness.html"
+          title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
       assignments: 
         - 
           deadline: 2025-02-21
