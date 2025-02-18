@@ -171,7 +171,7 @@
         - 
           deadline: 2025-02-26
           title: "HW 4 - Applying Functions and Iteration"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main"
       slides: slides/lecture09.pdf
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_09.ipynb&branch=main
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_09_completed.ipynb&branch=main
