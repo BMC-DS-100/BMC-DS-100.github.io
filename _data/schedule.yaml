@@ -142,9 +142,11 @@
         -
           url: "https://inferentialthinking.com/chapters/08/Functions_and_Tables.html"
           title: "Chapter 8. Functions and Tables"
+        -
+          url: "https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html"
+          title: "Chapter 8.1 Applying Functions to a Column"
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_07.ipynb&branch=main
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_07_completed.ipynb&branch=main
-      readings:
     - 
       date: 2025-02-13
       title: Lecture 8 <br> Pivot, Joins, & Comparisons
