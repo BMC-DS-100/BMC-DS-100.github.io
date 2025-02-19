@@ -166,7 +166,7 @@
       readings:
         -
           url: "https://inferentialthinking.com/chapters/09/Randomness.html"
-          title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
+          title: "Chapter 9 Randomness (9, 9.1, 9.2)"
       assignments: 
         - 
           deadline: 2025-02-21
@@ -184,8 +184,11 @@
       title: Lecture 10 <br> Control Statements (loops) <br> Randomess <br> Simulations
       readings:
         -
-          url: "https://inferentialthinking.com/chapters/09/Randomness.html"
-          title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
+          url: "https://inferentialthinking.com/chapters/09/2/Iteration.html"
+          title: "Chapter 9.2 Iteration"
+        -
+          url: "https://inferentialthinking.com/chapters/09/3/Simulation.html"
+          title: "Chapter 9.3 Simulation"
       slides: "slides/lecture10.pdf"
       assignments: 
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_10.ipynb&branch=main
