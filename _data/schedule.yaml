@@ -181,19 +181,20 @@
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_09_completed.ipynb&branch=main
     - 
       date: 2025-02-20
-      title: Lecture 10 <br> Comparisons & Control Statements
+      title: Lecture 10 <br> Control Statements (loops) <br> Randomess <br> Simulations
       readings:
         -
           url: "https://inferentialthinking.com/chapters/09/Randomness.html"
           title: "Chapter 9 Randomness (9, 9.1, 9.2, 9.3)"
-      _slides: "slides/lecture9-comparisons_control_statments_randomness.pdf"
+      slides: "slides/lecture10.pdf"
       assignments: 
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_10.ipynb&branch=main
   name: "Exploration"
 - 
   lectures: 
     - 
       date: 2025-02-25
-      title: Lecture 11 <br> Control Statements (loops) <br> Randomess
+      title: Lecture 11 <br> Monty Hall <br> Probability
       _slides: "slides/lecture10.pdf"
       assignments: 
         - 
@@ -203,8 +204,12 @@
       readings:
         -
           authors:
-          title: "Chapter 9.2 & 9.3"
-          url: "https://inferentialthinking.com/chapters/09/2/Iteration.html"
+          title: "Chapter 9.4 - The Monty Hall Problem"
+          url: "https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
+        -
+          authors:
+          title: "Chapter 9.5 - Finding Probabilites"
+          url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
     -  
       date: 2025-02-27
       title: Lecture 12 <br> <strike> Monty Hall <br> Probabilities</strike> <br> Simulations
