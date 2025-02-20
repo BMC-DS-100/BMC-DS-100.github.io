@@ -181,6 +181,9 @@
       slides: slides/lecture09.pdf
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_09.ipynb&branch=main
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_09_completed.ipynb&branch=main
+  name: "Exploration"
+- 
+  lectures: 
     - 
       date: 2025-02-20
       title: Lecture 10 <br> Control Statements (loops) <br> Randomess <br> Simulations
@@ -194,9 +197,7 @@
       slides: "slides/lecture10.pdf"
       assignments: 
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_10.ipynb&branch=main
-  name: "Exploration"
-- 
-  lectures: 
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_10_completed.ipynb&branch=main
     - 
       date: 2025-02-25
       title: Lecture 11 <br> Monty Hall <br> Probability
