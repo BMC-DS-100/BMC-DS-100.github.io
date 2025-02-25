@@ -220,38 +220,34 @@
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_11_completed.ipynb&branch=main
     -  
       date: 2025-02-27
-      title: Lecture 12 <br> <strike> Monty Hall <br> Probabilities</strike> <br> Simulations
+      title: Lecture 12 <br> Sampling, & Distributions
       readings:
         -
           authors:
-          title: "Chapter 9.3 - Simulation"
-          url: "https://inferentialthinking.com/chapters/09/3/Simulation.html"
+          title: "Chapter 10 - Sampling and Empirical Distributions"
+          url: "https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html"
         -
           authors:
-          title: <strike>"Chapter 9.4 - The Monty Hall Problem"</strike>
-          url: "https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
-        -
-          authors:
-          title: <strike>"Chapter 9.5 - Finding Probabilites"</strike>
-          url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
-      _slides: "slides/lecture11.pdf"
+          title: "Chapter 11.1 - Assessing a Model"
+          url: "https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html"
+      slides: "slides/lecture12.pdf"
     - 
       date: 2025-02-28
       title: Last day to declare Cr/NC
       type: "'deadline'"
     - 
       date: 2025-03-04
-      title: Lecture 13 <br> Monty Hall <br> Probabilities
+      title: Lecture 13 <br> Statistic, Hypothesis Testing
       readings:
         -
           authors:
-          title: "Chapter 9.4 - The Monty Hall Problem"
-          url: "https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html"
+          title: "Chapter 10.3 - Empirical Distribution of a Statistic"
+          url: "https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html"
         -
           authors:
-          title: "Chapter 9.5 - Finding Probabilites"
-          url: "hhttps://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html"
-      _slides: "slides/lecture11.pdf"
+          title: "Chapter 11.1 - Testing Hypotheses"
+          url: "https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html"
+      _slides: "slides/lecture13.pdf"
       assignments: 
         - 
           deadline: 2025-03-07
@@ -263,48 +259,7 @@
           _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw06%2Fhw06.ipynb&branch=main"
     - 
       date: 2025-03-06
-      title: Lecture 14 <br> Sampling, & Distributions
-      readings:
-        -
-          authors:
-          title: "Chapter 10 - Sampling and Empirical Distributions"
-          url: "https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html"
-        -
-          authors:
-          title: "Chapter 11.1 - Assessing a Model"
-          url: "https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html"
-      _slides: "slides/lecture13.pdf"
-    - 
-      date: 2025-03-11
-      title: Spring Break
-      type: "'no_lecture'"
-    - 
-      date: 2025-03-13
-      title: Spring Break
-      type: "'no_lecture'"
-    - 
-      date: 2025-03-18
-      _slides: ~
-      title: Lecture 15 <br> Statistic, Hypothesis Testing
-      readings:
-        -
-          authors:
-          title: "Chapter 10.3 - Empirical Distribution of a Statistic"
-          url: "https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html"
-        -
-          authors:
-          title: "Chapter 11.1 - Testing Hypotheses"
-          url: "https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html"
-      assignments: 
-        - 
-          deadline: 2025-03-21
-          title: "Lab 6 - Inference and the Death Penalty"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab05%2Flab05.ipynb&branch=main"
-      _slides: "slides/lecture14.pdf"
-      completed_notebook: ~
-    - 
-      date: 2025-03-20
-      title: Lecture 16 <br> Comparing Distributions & Measuring Uncertainty
+      title: Lecture 14 <br> Comparing Distributions & Measuring Uncertainty
       readings:
         -
           authors:
@@ -318,18 +273,47 @@
           authors:
           title: "Chapter 11.4 - Error Probabilities"
           url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
+      _slides: "slides/lecture13.pdf"
+    - 
+      date: 2025-03-11
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2025-03-13
+      title: Spring Break
+      type: "'no_lecture'"
+    - 
+      date: 2025-03-18
+      _slides: ~
+      title: Lecture 15 <br> A/B Testing
+      readings:
+        -
+          authors:
+          title: "Chapter 12 - Comparing Two Samples"
+          url: "https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html"
+      assignments: 
+        - 
+          deadline: 2025-03-21
+          title: "Lab 6 - Inference and the Death Penalty"
+          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab05%2Flab05.ipynb&branch=main"
+      _slides: "slides/lecture14.pdf"
+      completed_notebook: ~
+    - 
+      date: 2025-03-20
+      title: Lecture 16 <br> Causality and Estimation Variability
+      readings:
+        -
+          authors:
+          title: "Chapter 13 - 13.1 - Estimation"
+          url: "https://inferentialthinking.com/chapters/13/Estimation.html"
       assignments: 
       _slides: "slides/lecture15.pdf"
       completed_notebook: ~
     - 
       date: 2025-03-25
       _slides: ~
-      title: Lecture 17 <br> A/B Testing
+      title: Lecture 17 <br> Midterm Review
       readings:
-        -
-          authors:
-          title: "Chapter 12 - Comparing Two Samples"
-          url: "https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html"
       assignments: 
         - 
           deadline: 2025-03-24
@@ -338,12 +322,7 @@
     - 
       date: 2025-03-27
       _slides: ~
-      title: Lecture 18 <br> Causality and Estimation Variability
-      readings:
-        -
-          authors:
-          title: "Chapter 13 - 13.1 - Estimation"
-          url: "https://inferentialthinking.com/chapters/13/Estimation.html"
+      title: Lecture 18 <br> Midterm
       _slides: "slides/lecture17.pdf"
       assignments: 
         - 
@@ -361,8 +340,12 @@
       readings:
         -
           authors:
-          title: "Chapter 13 - Boostrap"
+          title: "Chapter 13.2 - Bootstrap"
           url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
+        -
+          authors:
+          title: "Chapter 13.3 - Confidence Intervals"
+          url: "https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html"
       _slides: "slides/lecture18.pdf"
       assignments: 
         - 
