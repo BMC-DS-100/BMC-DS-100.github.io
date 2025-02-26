@@ -231,6 +231,8 @@
           title: "Chapter 11.1 - Assessing a Model"
           url: "https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html"
       slides: "slides/lecture12.pdf"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_12.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_12_completed.ipynb&branch=main
     - 
       date: 2025-02-28
       title: Last day to declare Cr/NC
