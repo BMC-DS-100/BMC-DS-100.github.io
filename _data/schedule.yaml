@@ -204,7 +204,7 @@
       slides: "slides/lecture11.pdf"
       assignments: 
         - 
-          deadline: 2025-3-05
+          deadline: 2025-03-07
           title: "HW 5 - Probability, Simulation, Estimation,<br>and Assessing Models"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main"
       readings:
@@ -326,6 +326,7 @@
       _slides: ~
       title: Lecture 18 <br> Midterm
       _slides: "slides/lecture17.pdf"
+      type: "'no_lecture'"
       assignments: 
         - 
           deadline: 2025-4-07
@@ -467,4 +468,8 @@
     - 
       date: 2025-05-01
       title: Lecture 28 <br> Review
+    - 
+      date: 2025-05-07
+      title: "Final <br> Old Library 116 <br> 9:30am - 12:00pm"
+      type: "'no_lecture'"
   name: "Prediction"
