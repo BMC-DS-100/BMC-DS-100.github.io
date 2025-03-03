@@ -249,7 +249,7 @@
           authors:
           title: "Chapter 11.1 - Testing Hypotheses"
           url: "https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html"
-      _slides: "slides/lecture13.pdf"
+      slides: "slides/lecture13.pdf"
       assignments: 
         - 
           deadline: 2025-03-07
