@@ -277,7 +277,10 @@
           authors:
           title: "Chapter 11.4 - Error Probabilities"
           url: "https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html"
-      _slides: "slides/lecture13.pdf"
+      slides: "slides/lecture14.pdf"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_14.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_14_completed.ipynb&branch=main
+    - 
     - 
       date: 2025-03-11
       title: Spring Break
