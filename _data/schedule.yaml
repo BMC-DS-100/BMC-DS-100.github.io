@@ -329,10 +329,7 @@
           authors:
           title: "Chapter 13.3 - Confidence Intervals"
           url: "https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html"
-      assignments: 
-        - 
-          deadline: 2025-03-24
-          title: "Lab 7 -  Normal Distribution and Variance of Sample Means"
+      assignments:
         - 
           deadline: 2025-04-11
           title: "Project 2"
@@ -343,12 +340,8 @@
       _slides: ~
       title: Lecture 18 <br> Midterm
       _slides: "slides/lecture17.pdf"
-      type: "'no_lecture'"
+      type: "'exam'"
       assignments: 
-        - 
-          deadline: 2025-4-07
-          title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main"
     - 
       date: 2025-03-28
       title: Last day to withdraw
@@ -369,8 +362,12 @@
       _slides: "slides/lecture18.pdf"
       assignments: 
         - 
-          deadline: 2025-04-07
-          title: "Lab 9"
+          deadline: 2025-04-05
+          title: "Lab 7 -  Normal Distribution and Variance of Sample Means"
+        - 
+          deadline: 2025-4-09
+          title: "HW 7 - Confidence Intervals, The Bootstrap, <br> and The Central Limit Theorem"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main"
   name: "Inference" 
 - 
   lectures: 
