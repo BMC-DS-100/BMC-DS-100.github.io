@@ -302,7 +302,7 @@
         - 
           deadline: 2025-03-21
           title: "Lab 6 - Inference and the Death Penalty"
-          _url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab05%2Flab05.ipynb&branch=main"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab06%2Flab06.ipynb&branch=main"
       _slides: "slides/lecture14.pdf"
       completed_notebook: ~
     - 
@@ -319,8 +319,16 @@
     - 
       date: 2025-03-25
       _slides: ~
-      title: Lecture 17 <br> Midterm Review
+      title: Lecture 17 <br> Bootstrap <br> Confidence Interval
       readings:
+        -
+          authors:
+          title: "Chapter 13.2 - Bootstrap"
+          url: "https://inferentialthinking.com/chapters/13/2/Bootstrap.html"
+        -
+          authors:
+          title: "Chapter 13.3 - Confidence Intervals"
+          url: "https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html"
       assignments: 
         - 
           deadline: 2025-03-24
