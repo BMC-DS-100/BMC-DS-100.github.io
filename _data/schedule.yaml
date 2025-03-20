@@ -314,8 +314,9 @@
           title: "Chapter 13 - 13.1 - Estimation"
           url: "https://inferentialthinking.com/chapters/13/Estimation.html"
       assignments: 
-      _slides: "slides/lecture15.pdf"
-      completed_notebook: ~
+      slides: "slides/lecture16.pdf"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_16_completed.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_16_completed.ipynb&branch=main
     - 
       date: 2025-03-25
       _slides: ~
