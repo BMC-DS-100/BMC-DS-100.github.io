@@ -352,7 +352,7 @@
     - 
       date: 2025-04-01
       _slides: ~
-      title: Lecture 19 <br> Bootstrap <br> Confidence Interval
+      title: Lecture 19 <br> Confidence Intervals <br> Center and Spread <br> Standard Deviations and Normal Distributions
       readings:
         -
           authors:
@@ -362,6 +362,10 @@
           authors:
           title: "Chapter 13.3 - Confidence Intervals"
           url: "https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html"
+        -
+          authors:
+          title: "Chapter 14. Why the Mean Matter"
+          url: "https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html"
       _slides: "slides/lecture18.pdf"
       assignments: 
         - 
@@ -376,16 +380,16 @@
   lectures: 
     - 
       date: 2025-04-03
-      title: Lecture 20 <br> Confidence Intervals <br> Center and Spread <br> Standard Deviations and Normal Distributions
+      title: Lecture 20 <br> Correlation <br> Nearest Neighbor Regression
       readings:
         -
           authors:
-          title: "Chapter 13.4. Using Confidence Intervals"
-          url: "https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html"
+          title: "Chapter 15. Prediction (introduction)"
+          url: "https://inferentialthinking.com/chapters/15/Prediction.html"
         -
           authors:
-          title: "Chapter 14. Why the Mean Matter"
-          url: "https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html"
+          title: "Chapter 15.1 Correlation"
+          url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
       _slides: "slides/lecture19.pdf"
       assignments: 
         - 
@@ -397,14 +401,6 @@
       _slides: "slides/lecture20.pdf"
       title: Lecture 21 <br> Correlation <br> Nearest Neighbor Regression
       readings:
-        -
-          authors:
-          title: "Chapter 15. Prediction (introduction)"
-          url: "https://inferentialthinking.com/chapters/15/Prediction.html"
-        -
-          authors:
-          title: "Chapter 15.1 Correlation"
-          url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
       assignments: 
         - 
           deadline: 2025-04-14
