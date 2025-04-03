@@ -392,12 +392,14 @@
           authors:
           title: "Chapter 15.1 Correlation"
           url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
-      _slides: "slides/lecture19.pdf"
+      slides: "slides/lecture20.pdf"
       assignments: 
         - 
           deadline: 2025-4-14
           title: "HW 8 - Linear Regression" 
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw08%2Fhw08.ipynb&branch=main"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_20.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_20_completed.ipynb&branch=main
     - 
       date: 2025-04-08
       _slides: "slides/lecture20.pdf"
