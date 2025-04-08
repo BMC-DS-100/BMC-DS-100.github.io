@@ -394,30 +394,32 @@
           url: "https://inferentialthinking.com/chapters/15/1/Correlation.html"
       slides: "slides/lecture20.pdf"
       assignments: 
-        - 
-          deadline: 2025-4-14
-          title: "HW 8 - Linear Regression" 
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw08%2Fhw08.ipynb&branch=main"
       notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_20.ipynb&branch=main
       completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_20_completed.ipynb&branch=main
     - 
       date: 2025-04-08
-      _slides: "slides/lecture20.pdf"
+      slides: "slides/lecture21.pdf"
       title: Lecture 21 <br> Linear Regression <br> Least Squares & Residuals
-      readings:
-      assignments: 
-        - 
-          deadline: 2025-04-14
-          title: "Lab 8 - Regression"
-          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab08%2Flab08.ipynb&branch=main"
-    - 
-      date: 2025-4-10
-      title: Lecture 22 <br> NO CLASS
       readings:
         -
           authors:
           title: "Chapter 15. Prediction (15.2 - 15.6)"
           url: "https://inferentialthinking.com/chapters/15/Prediction.html"
+      assignments: 
+        - 
+          deadline: 2025-04-14
+          title: "Lab 8 - Regression"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab08%2Flab08.ipynb&branch=main"
+        - 
+          deadline: 2025-4-16
+          title: "HW 8 - Sample Size & Confidence Intervals" 
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw08%2Fhw08.ipynb&branch=main"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_21.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_21_completed.ipynb&branch=main
+    - 
+      date: 2025-4-10
+      title: Lecture 22 <br> NO CLASS
+      readings:
       _slides: "slides/lecture21.pdf"
       assignments: 
         - 
@@ -429,10 +431,6 @@
       _slides: "slides/lecture22.pdf"
       title: Lecture 23 <br> NO CLASS
       readings:
-        -
-          authors:
-          title: "Chapter 16. Inference for Regression"
-          url: "https://inferentialthinking.com/chapters/16/Inference_for_Regression.html"
       assignments: 
         - 
           deadline: 2025-5-02
@@ -452,6 +450,16 @@
       title: Lecture 25 <br> Regression Inference
       _slides: "slides/lecture24.pdf"
       readings:
+        -
+          authors:
+          title: "Chapter 16. Inference for Regression"
+          url: "https://inferentialthinking.com/chapters/16/Inference_for_Regression.html"
+    - 
+      date: 2025-04-24
+      _slides: ~
+      title: Lecture 26 <br> Classification 
+      _slides: "slides/lecture25.pdf"
+      readings:
          -
            url: https://www.inferentialthinking.com/chapters/17/Classification.html
            title: "Chapter 17 - Classification"
@@ -464,15 +472,6 @@
          -
            url: https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
            title: "Chapter 17.3 - Rows of Tables"
-    - 
-      date: 2025-04-24
-      _slides: ~
-      title: Lecture 26 <br> Classification 
-      _slides: "slides/lecture25.pdf"
-      readings:
-         -
-           url: https://www.inferentialthinking.com/chapters/17/Classification.html
-           title: "Chapter 17 - Classification"
     - 
       date: 2025-04-29
       title: Lecture 27 <br> Classification
