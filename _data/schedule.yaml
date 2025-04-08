@@ -403,16 +403,16 @@
     - 
       date: 2025-04-08
       _slides: "slides/lecture20.pdf"
-      title: Lecture 21 <br> Correlation <br> Nearest Neighbor Regression
+      title: Lecture 21 <br> Linear Regression <br> Least Squares & Residuals
       readings:
       assignments: 
         - 
           deadline: 2025-04-14
-          title: "Lab 10 - Regression"
+          title: "Lab 8 - Regression"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flab%2Flab08%2Flab08.ipynb&branch=main"
     - 
       date: 2025-4-10
-      title: Lecture 22 <br> Linear Regression <br> Least Squares & Residuals
+      title: Lecture 22 <br> NO CLASS
       readings:
         -
           authors:
@@ -427,7 +427,7 @@
     - 
       date: 2025-04-15
       _slides: "slides/lecture22.pdf"
-      title: Lecture 23 <br> Regression Inference
+      title: Lecture 23 <br> NO CLASS
       readings:
         -
           authors:
@@ -441,7 +441,7 @@
     - 
       date: 2025-04-17
       _slides: "slides/lecture23.pdf"
-      title: Lecture 24 <br> Regression Inference
+      title: Lecture 24 <br> NO CLASS
       assignments: 
         - 
           deadline: 2025-4-28
@@ -449,7 +449,7 @@
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main"
     - 
       date: 2025-04-22
-      title: Lecture 25 <br> Classification
+      title: Lecture 25 <br> Regression Inference
       _slides: "slides/lecture24.pdf"
       readings:
          -
@@ -467,7 +467,7 @@
     - 
       date: 2025-04-24
       _slides: ~
-      title: Lecture 26 <br> Final Project <br> Classification II
+      title: Lecture 26 <br> Classification 
       _slides: "slides/lecture25.pdf"
       readings:
          -
@@ -475,7 +475,7 @@
            title: "Chapter 17 - Classification"
     - 
       date: 2025-04-29
-      title: Lecture 27 <br> Review
+      title: Lecture 27 <br> Classification
       _slides: "slides/lecture26.pdf"
       completed_notebook: ~
     - 
