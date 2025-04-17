@@ -423,7 +423,7 @@
       _slides: "slides/lecture21.pdf"
       assignments: 
         - 
-          deadline: 2025-4-25
+          deadline: 2025-4-23
           title: "HW 9 - Regression Inference"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw09%2Fhw09.ipynb&branch=main"
     - 
@@ -442,8 +442,8 @@
       title: Lecture 24 <br> NO CLASS
       assignments: 
         - 
-          deadline: 2025-4-28
-          title: "HW 10 - Classification"
+          deadline: 2025-4-30
+          title: "HW 10 "
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main"
     - 
       date: 2025-04-22
@@ -477,6 +477,11 @@
       title: Lecture 27 <br> Classification
       _slides: "slides/lecture26.pdf"
       completed_notebook: ~
+      assignments: 
+        - 
+          deadline: 2025-5-02
+          title: "HW 11 - Classification"
+          url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main"
     - 
       date: 2025-05-01
       title: Lecture 28 <br> Review
