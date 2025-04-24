@@ -460,7 +460,7 @@
       date: 2025-04-24
       _slides: ~
       title: Lecture 26 <br> Classification 
-      _slides: "slides/lecture25.pdf"
+      slides: "slides/lecture23.pdf"
       readings:
          -
            url: https://www.inferentialthinking.com/chapters/17/Classification.html
@@ -474,6 +474,9 @@
          -
            url: https://www.inferentialthinking.com/chapters/17/3/Rows_of_Tables.html
            title: "Chapter 17.3 - Rows of Tables"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_23.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_23_completed.ipynb&branch=main
+    - 
     - 
       date: 2025-04-29
       title: Lecture 27 <br> Classification
