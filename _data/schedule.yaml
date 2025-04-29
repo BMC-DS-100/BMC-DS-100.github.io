@@ -480,20 +480,26 @@
     - 
       date: 2025-04-29
       title: Lecture 27 <br> Classification
-      _slides: "slides/lecture26.pdf"
-      completed_notebook: ~
+      slides: "slides/lecture24.pdf"
+      readings:
+         -
+           url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+           title: "4.7 Evaluation: Precision, Recall, F-measure. Jurafsky & Martin Speech & Language Processing"
+         -
+           url: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+           title: "4.9 Statistical Significance Testing. Jurafsky & Martin Speech & Language Processing"
       assignments: 
         - 
           deadline: 2025-5-02
           title: "<s>HW 11 - Classification</s>"
           url: "https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Fhw%2Fhw10%2Fhw10.ipynb&branch=main"
+      notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_24.ipynb&branch=main
+      completed_notebook: https://dsci-b100-hub.brynmawr.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBMC-DS-100%2Fmaterials-sp25&urlpath=tree%2Fmaterials-sp25%2F%2Flec%2FLecture_24_completed.ipynb&branch=main
+    - 
     - 
       date: 2025-05-01
-      title: Lecture 28 <br> Updating Probabilities
+      title: Lecture 28 <br> Review
       readings:
-         -
-           url: https://inferentialthinking.com/chapters/18/Updating_Predictions.html
-           title: "Chapter 18 - Updating Probabilities"
     - 
       date: 2025-05-07
       title: "Final <br> Old Library 116 <br> 9:30am - 12:00pm"
